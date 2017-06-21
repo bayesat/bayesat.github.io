@@ -1,0 +1,48 @@
+*{color: #000 !important;font-family:"Times New Roman", serif !important;}
+body{font-size:12pt !important;line-height: 14pt !important;}
+
+h2{font-size:16pt!important;font-weight: bold;}
+h3{font-size:12pt!important;font-weight: bold;}
+
+#lu_header_wrapper,#toolbar_wrapper,#header_nav,#navigation_wrapper,#breadcrumb_wrapper,#content_navigation,#share_wrapper,#footer_wrapper{display:none!important;}
+.no_print {display:none!important;}
+
+#header_content #main_title span{display: inline;}
+#header_content #main_title span, #page_title{border:none;}
+#header_content #main_title{font-size:30pt!important;text-transform:none;}
+#header_content #main_sub_title{font-size:14pt!important; margin-top:20px;font-weight:normal;}
+#page_title h1{font-size:22pt!important;}
+#page_title h2{font-size:11pt!important;text-transform:none; margin-top:5px;}
+#text_wrapper {width: 100%; margin: 0; float: none;}
+#content{background-color: transparent;}
+table{width: 80%;}
+td{border-color:#999;}
+.align_left, .align_right{float:none;padding:0px;margin: 0px 0px 8px 0px;}
+p a[href^="http://"]:after, p a[href^="https://"]:after{content: " (" attr(href) ")";font-size: 90%;}
+
+p a{word-wrap: break-word;}
+.lead {font-weight:bold;}
+
+#text_content_main{padding-left: 8px;}
+
+#content_sidebar_wrapper{width: 100%;}
+#content_sidebar{border-top: 2px dotted black;margin-top: 40px;padding-top: 20px;}
+#content_sidebar_wrapper h2{font-size:16pt!important;text-transform: none;border:none; margin-top: 1cm;}
+
+#byline{border-color: #999;}
+
+.promo{display: none;}
+
+.calendar-wrapper {padding: 0px;background-color:white !important;}
+.calendar-vertical .calendar-title,.calendar-vertical .calendar-lead, .calendar-vertical .calendar-date{margin-top:0 !important;font-size:12pt !important;}
+.calendar-vertical .calendar-item{border:none !important;}
+.calendar-vertical h2{border:none !important;}
+.news-wrapper {padding: 0px;background-color:white !important;}
+.news-vertical .news-title,.news-vertical .news-lead, .news-vertical .news-date{margin-top:0 !important;font-size:12pt !important;}
+.news-vertical .news-title{font-weight: bold !important;}
+.news-vertical .news-item{border:none !important;}
+.news-vertical h2{border:none !important;}
+.archive_link{display: none;}
+
+.tab-sidebar-toggle{display: none;}
+#tabs{display: none;}

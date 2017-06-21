@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4274"
+   viewBox="0 0 408.18375 149.1526"
+   height="42.094177mm"
+   width="115.19852mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bayes_at_logo_template_inkscape.svg"
+   inkscape:export-filename="/home/rasmus/Dropbox/Documents/akademia/writings/old/bayes_at_lund_2016/bayes_at_lund_logo_2017_large.png"
+   inkscape:export-xdpi="485.95764"
+   inkscape:export-ydpi="485.95764">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     id="namedview22"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.2450929"
+     inkscape:cx="185.3119"
+     inkscape:cy="120.5937"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="239.63375,8.0174853"
+       orientation="0,1"
+       id="guide4150" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4276" />
+  <metadata
+     id="metadata4279">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(261.23473,-420.64306)"
+     id="layer1">
+    <text
+       id="text3287-0"
+       y="487.8797"
+       x="-255.36975"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.23694992px;line-height:125%;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.89559937px;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro'"
+         y="487.8797"
+         x="-255.36975"
+         id="tspan3289-3"><tspan
+           id="tspan3126-1"
+           style="font-size:91.77713013px;-inkscape-font-specification:'Adobe Garamond Pro';font-family:'Adobe Garamond Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">B</tspan><tspan
+           id="tspan3124-1"
+           style="font-size:73.42169952px;-inkscape-font-specification:'Adobe Garamond Pro';font-family:'Adobe Garamond Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">AYES</tspan></tspan></text>
+    <path
+       style="fill:#1f357a;fill-opacity:0.85507244;stroke:#000000;stroke-width:3.74669886;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m -257.69142,494.1724 166.226998,0 1.062,-0.004 6.38287,0 1.062,-0.004 3.19138,0 1.062,-0.004 2.12937,0 1.062,-0.004 1.062,0 1.06213,-0.004 1.06737,-0.004 1.062,-0.004 1.062,0 1.06738,-0.004 1.062,-0.004 1.062,-0.007 1.062,-0.004 1.06737,-0.004 3.186,-0.0219 1.06738,-0.007 3.18612,-0.0329 1.06738,-0.0113 1.062,-0.0146 1.062,-0.0183 1.062,-0.0146 1.06737,-0.0219 2.124,-0.0437 1.062,-0.0292 1.06738,-0.0293 2.12412,-0.0656 1.062,-0.0401 1.06738,-0.0437 1.062,-0.0474 1.062,-0.0546 1.062,-0.0582 1.06737,-0.062 1.062,-0.0729 1.062,-0.0765 1.062,-0.0838 1.06738,-0.0911 1.062,-0.102 1.06212,-0.113 1.062,-0.12025 1.06738,-0.13118 1.062,-0.14577 1.062,-0.1567 1.062,-0.17491 1.06737,-0.18585 1.062,-0.20407 1.062,-0.22229 1.06738,-0.24051 1.062,-0.25874 1.062,-0.28424 1.06212,-0.3061 1.06738,-0.33162 1.062,-0.35712 1.062,-0.38627 1.062,-0.41543 1.06737,-0.44822 1.062,-0.48104 1.062,-0.5211 1.062,-0.55391 1.06738,-0.59764 1.0619999,-0.63771 1.062,-0.6851 1.06212,-0.72883 1.06738,-0.77618 1.062,-0.82723 1.062,-0.88186 1.062,-0.9329 1.06737,-0.9912 1.062,-1.04585 1.06199997,-1.10418 1.06200003,-1.16612 1.06738,-1.22441 1.062,-1.28274 1.062,-1.34468 1.06212,-1.40662 1.06738,-1.46494 1.062,-1.5196 1.062,-1.5779 1.062,-1.62527 1.0673701,-1.6763 1.062,-1.71638 1.062,-1.75282 1.062,-1.78197 1.06738,-1.8002 1.062,-1.81476 1.06212,-1.81112 1.062,-1.8002 1.06738,-1.77103 1.062,-1.72367 1.062,-1.66537 1.062,-1.58155 1.06737,-1.47586 1.062,-1.35196 1.062,-1.19891 1.06738,-1.02035 1.062,-0.809 1.062,-0.57577 1.06212,-0.30974 1.06725,-0.0113 1.06213,0.32067 1.062,0.67417 1.062,1.06407 1.06737,1.47223 1.062,1.90587 1.062,2.35045 1.062,2.80597 1.06738,3.25419 1.062,3.68785 1.062,4.0887 1.062,4.43852 1.06737,4.7082 1.062,4.86854 1.06213,4.88676 1.062,4.71913 1.06737,4.30371 1.062,3.5931 1.062,2.5035 -0.2094,0.23587"
+       id="path3924-3" />
+    <text
+       id="text5003-6"
+       y="554.09924"
+       x="-259.57996"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.47862244px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.91448975px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         y="554.09924"
+         x="-259.57996"
+         id="tspan5005-7">@</tspan></text>
+    <text
+       id="text3287-0-2"
+       y="488.32584"
+       x="62.444962"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79220486px;line-height:125%;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.33763885px;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro'"
+         y="488.32584"
+         x="62.444962"
+         id="tspan3289-3-2">20</tspan></text>
+    <text
+       id="text3287-0-2-8"
+       y="561.42731"
+       x="61.410744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.63626385px;line-height:125%;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.09011078px;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro'"
+         y="561.42731"
+         x="61.410744"
+         id="tspan3289-3-2-6">18</tspan></text>
+    <path
+       id="path3900"
+       d="m 49.570758,493.45453 92.137152,0 0.4288,0"
+       style="fill:none;stroke:#000000;stroke-width:2.50236011;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3287-0-3"
+       y="562.92468"
+       x="-188.30588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.23694992px;line-height:125%;font-family:Garuda;-inkscape-font-specification:Garuda;letter-spacing:0px;word-spacing:0px;fill:#1e357a;fill-opacity:0.85490197;stroke:none;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.89559937px;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro';fill:#1e357a;fill-opacity:0.85490197;"
+         y="562.92468"
+         x="-188.30588"
+         id="tspan3289-3-6">P<tspan
+   style="font-size:72.50000763px;fill:#1e357a;fill-opacity:0.85490197;"
+   id="tspan4176">LACE</tspan></tspan></text>
+  </g>
+</svg>

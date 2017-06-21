@@ -1,0 +1,1721 @@
+#header_content #header_logo_lth{cursor:pointer; width:137px;height:110px;float:right;background:url(../images/logos/logo-lth-sv.png) no-repeat scroll center 5px;margin-right: 16px;margin-top:10px; margin-left:16px;}
+#header_content #header_logo{cursor:pointer; width:131px;height:110px;float:right;background:url(../images/logos/logo-lu-sv.png) no-repeat scroll center 5px;margin-right: 16px;margin-top:10px; margin-left:16px;}
+#header_content #header_logo_en{cursor:pointer; width:80px;height:95px;float:right;background:url(../images/logos/logo-lu-en.png) no-repeat scroll;margin-right: 16px;margin-top:13px; margin-left:16px;}
+#header_content #header_logo_en_lth{cursor:pointer; width:80px;height:95px;float:right;background:url(../images/logos/logo-lu-en.png) no-repeat scroll;margin-right: 16px;margin-top:13px; margin-left:16px;}
+
+#header_content .header_logo{cursor:pointer; width:131px;height:110px;float:right;background:url(../images/logos/logo-lu-sv.png) no-repeat scroll center 5px !important;margin-right: 16px;margin-top:10px; margin-left:16px;}
+#header_content .header_logo_en{cursor:pointer; width:80px;height:95px;float:right;background:url(../images/logos/logo-lu-en.png) no-repeat scroll center 5px !important;margin-right: 16px;margin-top:13px; margin-left:16px;}
+
+#header_content .header_logo_lth{cursor:pointer; width:137px !important;height:110px;float:right;background:url(../images/logos/logo-lth-sv.png) no-repeat scroll center 5px !important;margin-right: 16px;margin-top:10px; margin-left:16px;}
+#header_content .header_logo_en_lth{cursor:pointer; width:80px;height:95px;float:right;background:url(../images/logos/logo-lu-en.png) no-repeat scroll center 5px !important;margin-right: 16px;margin-top:13px; margin-left:16px;}
+
+/*
+* Content only displayed on mobile, MP 2017-04-05
+*/
+.mobileOnly {
+  display: none;
+}
+
+/* hide headers in powermail forms, TH 2017-04-06 */
+.tx-powermail h3, .tx-powermail legend, .powermail_message_error {
+    display:none;
+}
+
+/* Fixar sidand huvudrubrik i responsivt läge 
+Lägg framtida responsiva fixar här
+*/
+@media all and (max-width: 640px){
+#main_title {
+  white-space: nowrap;
+}
+#header_content #header_titles{padding-left:0px;height:auto;margin-left:2,5rem;max-width:28rem;}
+#header_logo_lth , #header_logo_en_lth , #header_logo_en { display:none;}
+.top-promo{
+height:auto !important; 
+/*position: absolute !important;*/
+}
+.top-promo-overlay{height:auto !important; position: relative !important;}
+.archiveButton a, .archiveButton a:link, .archiveButton a:active {  float: right; margin-right: 20px;}
+.inlineVideoSpan {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; 
+  height: 0; 
+  overflow: hidden;
+} 
+.inlineVideoSpan iframe,
+.inlineVideoSpan object,
+.inlineVideoSpan embed {
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  /*See more at: http://avexdesigns.com/responsive-youtube-embed/#sthash.0sYrx5H9.dpuf*/
+}
+.presentationContainer h1.presentationHeader { 
+font-size: 2rem;
+line-height: 2.5rem;
+}
+/* TEST 2015-08-14 MP moving calendar css to lth_lucal plugin
+
+.calendar-item:not(:first-child)  {
+  border-left: none !important;
+}
+.calendar-horizontal .calendar-main-title.bg_beige {
+background-color: white !important;
+margin-bottom:16px;
+}
+.calendar-horizontal .calendar-item:first-child {
+margin-top:0px;
+}
+.calendar-horizontal .calendar-items {
+  max-height: 100% !important;
+}
+*/
+/* , .news-horizontal .news-main-title,  */
+.news-wrapper, .rightContentNewsPortal {
+  margin: 0px 0px 8px 0px !important;
+  float: none !important;
+  width: 100% !important;
+  }
+.start-grid-16 {
+  /* display: inline; */
+  float: none !important; 
+  /* min-height: 1px; */
+  /* position: relative; */
+  /* margin: 0 8px; */
+  width: 100% !important; 
+}
+.news-single-item h3 {
+  /*font-size: 14px;
+    line-height: normal;*/
+  /*font-family: Arial,sans-serif;
+  margin-top: 10px;
+  
+  font-weight: bold;
+  font-size:13px;
+  line-height: inherit;*/
+  font: 2.125rem/3rem Arial,sans-serif !important;
+}
+/*
+* Content only displayed on mobile, MP 2017-04-05
+*/
+.mobileOnly {
+  display: inline;
+}
+}
+
+/*************************/
+/*fixar efter övergång till responsiv*/
+#content_sidebar img {
+width: auto;
+}
+
+#text_content_main .top-promo .lead {
+color: #303030;
+margin-bottom: 0;
+font-family: Arial,sans-serif;
+}
+/*END fixar efter övergång till responsiv*/
+#footer_logo{background-image:url(../images/footer-logo-lth-sv.png);height:115px;width:177px;cursor:pointer;float:left;}
+#footer_logo_en, #footer_logo_en_lu{background:url(../images/logos/footer-logo-lu-en.png) no-repeat scroll 0 0 transparent;display:block;float:left;height:125px;width:100px;cursor:pointer;}
+#footer_logo_en_lth{background:url(../images/logos/footer-logo-lu-en.png) no-repeat scroll 0 0 transparent;display:block;float:left;height:125px;width:100px;cursor:pointer;}
+#footer_logo_lu{background:url(../images/lu_footer_logo.png) no-repeat scroll 0 0 transparent;display:block;float:left;height:125px;width:100px;padding:10px 0px 0px 20px;cursor:pointer;}
+#footer_logo_institution{display:block;float:left;height:125px;width:100px;padding:10px 0px 0px 20px;}
+
+#contact_information{min-height:115px;}
+
+#shortcuts { 
+width: auto !important;
+}
+#shortcuts_icon { 
+clear: right !important;
+float: none ;
+margin-left:5px;
+}
+#shortcutsContainer { 
+width: 87px !important;
+display:inline;
+}
+
+#shortcuts  ul{ 
+margin-top: 5px !important;
+}
+
+/**mailform styling, only beginning -MP08/13**/
+
+/*hr style test, kolla om OK, MP 2014/04/11*/
+/*hr {
+border-top: 1px solid #9C6114
+}*/
+/*.bloggNotes.news-list-item:nth-child(even) {background: #F8F3EA}
+.bloggNotes.news-list-item:nth-child(odd) {background: none}*/
+.bloggNotesDate {
+color: #8E5614;
+
+}
+.bloggNotes .lthNewsHeader{
+color: #8E5614;
+
+}
+
+/*.catMenuLevel1 {
+padding-left: 5px;
+}*/
+.catMenuTab *{
+padding-top:0px !important;
+margin-top:0px !important;
+padding-b:0px !important;
+margin-bottom:0px !important;
+}
+.catMenuLevel1 {
+padding:5px 0px 0px 0px;
+}
+.catMenuLevel2 {
+padding:5px 0px 0px 10px;
+
+}
+.catMenuLevel3 {
+padding:5px 0px 0px 15px;
+
+}
+.catMenuLevel4 {
+padding:5px 0px 0px 20px;
+
+}
+
+
+#mailform * {margin-top: 5px;}
+
+/*MP 11/2013 -move this to better place*/
+.align-justify 
+{
+  text-align: justify;  
+}
+/*MP 11/2013 -move this to better place*/
+
+.csc-mailform-field label {
+  display:block;
+  width:100%;
+  padding-top: 10px;  
+}
+
+.csc-mailform-radio  { 
+padding-right: 10px;
+ padding-top: 10px;
+ clear:left;
+ width:100%;
+ }
+
+/*.csc-mailform-field  label:first-child {
+ display:none;
+ }
+*/
+ .csc-mailform-radio legend {
+ display:none;
+ }
+.csc-mailform-radio label {
+  /*clear:left !important;*/ 
+  display:block;
+  padding-top: 0px !important;  
+  padding-left: 10px;  
+  margin-left: 20px;
+  
+}
+.csc-mailform-radio  input[type='radio']{ 
+padding-right: 10px; 
+padding-top: 0px;
+margin-top:0px; 
+margin-right:-40px;
+float:left;
+width:auto;
+height:auto;
+border: none;
+}
+
+/**SLIDESHOW - adjust slideshow/bildspel for use in right column MP 04/03/2014**/
+#content_sidebar .top-promo *{
+max-height: 280px !important;
+background-repeat: no-repeat !important;
+}
+#content_sidebar .top-promo .text-wrapper{
+max-width: 208px !important;
+max-height: 240px !important;
+overflow:hidden;
+opacity: 1;
+left: 0px;
+bottom: 0px;
+height: 112px;
+padding-right: 0px;
+}
+
+#content_sidebar .top-promo  h1{
+font-size:18px;
+padding-bottom: 0px;
+border:none;
+margin-bottom:0px;
+}
+#content_sidebar .top-promo  p{
+font: 13px Arial, sans-serif;
+margin: 0;
+padding: 0 0px 16px;
+}
+#content_sidebar .slider-controls {
+padding:5px;
+background-color:rgba(0, 0, 0, 0.5);
+visibility:hidden !important;
+top:170px !important;
+}
+#content_sidebar .slider-controls *{
+
+visibility:hidden !important;
+}
+
+#content_sidebar .top-promo .text-wrapper .top-promo-icon{
+
+background: url(../images/arrow-medium.png) no-repeat;
+right: 6px;
+height: 35px;
+}
+
+#content_sidebar  *:hover > .slider-controls *{
+visibility:visible !important;
+}
+#content_sidebar  *:hover > .slider-controls {
+visibility:visible !important;
+}
+
+#content_sidebar .top-promo{height:280px;} 
+#content_sidebar .top-promo-overlay{height:280px} 
+
+/****test****/
+.focus{color: #303030;outline: thin dotted red;cursor:pointer;}
+.linkStyle{color:#8E5614;text-decoration:underline;cursor:pointer;}
+/****test****/
+
+.news-horizontal .news-top-right {
+  padding: 16px 0 16px 0;
+}
+
+.news-horizontal {
+  width:736px;
+  margin-top:0px;
+}
+
+.promo_img_small {
+  height: 144px;
+  width: 224px;
+}
+/* Tror detta var till gamla kalendariet, MP 2015-04-01
+.calendar-items {
+  width: 704px;
+}*/
+/* TEST 2015-08-14 MP moving calendar css to lth_lucal plugin
+.calendar-horizontal .calendar-item:not(:first-child) {
+border-left: 1px solid #9C6114;
+margin-left: 12px;
+}
+*/
+/*Fix promo link- whole promo should have active link MP 06/10/13*/
+.promo a{min-height:100%;display:block;}
+
+/*Fix calendar MP 22/06/13*/
+/* TEST 2015-08-14 MP moving calendar css to lth_lucal plugin
+.calendar-horizontal .calendar-items{overflow:hidden;max-height:340px;}
+.calendar-horizontal .center{height:300px;overflow:hidden;}
+*/
+/***Klasser till RTE nya och gamla MP 09/2013 och klasser till content element layout***/
+p.blueBlock, div.blockBoxBlue
+{ 
+margin: 0px 0px 10px 0px;
+padding: 16px;
+padding-top: 10px;
+display: block; 
+background-color: #D7EEF7; 
+font: 13px Arial, sans-serif;
+}
+
+div.blockBoxBlue *
+  { 
+ margin-top: 0px;
+font: Georgia, serif;
+}
+
+p.beigeBlock, div.blockBoxBeige 
+{ 
+margin: 0px 0px 10px 0px;
+padding: 16px;
+padding-top: 10px;
+display: block; 
+background-color: #F8F3EA; 
+font: 13px Arial, sans-serif;
+}
+div.blockBoxBeige *
+  { 
+  margin-top: 0px;
+  font: Georgia, serif;
+}
+       
+p.pinkBlock, div.blockBoxPink
+{ 
+margin: 0px 0px 10px 0px;
+padding: 16px;
+padding-top: 10px;
+display: block; 
+background-color: #FBE5F0; 
+font: 13px Arial, sans-serif;
+}
+
+div.blockBoxPink *
+  { 
+ margin-top: 0px;
+font: Georgia, serif;
+}
+p.greenBlock, div.blockBoxGreen
+{ 
+margin: 0px 0px 10px 0px;
+padding: 16px;
+padding-top: 10px;
+display: block; 
+background-color: #DFEFE8; 
+font: 13px Arial, sans-serif;
+}
+
+div.blockBoxGreen *
+  { 
+ margin-top: 0px;
+font: Georgia, serif;
+}
+p.yellowBlock, div.blockBoxYellow
+{ 
+margin: 0px 0px 10px 0px;
+padding: 16px;
+padding-top: 10px;
+display: block; 
+background-color: #F8F368; 
+font: 13px Arial, sans-serif;
+}
+
+div.blockBoxYellow *
+  { 
+ margin-top: 0px;
+font: Georgia, serif;
+}
+
+/**Nya Rte klasser MP 09/2013**/
+a.brownArrowLink:link, li.brownArrowLink, span.brownArrowLink{
+  text-decoration: none !important;
+  color:#8E5614 !important;
+  /*background-image: url("/images/arrowSmall15.png");*/
+  background-image:url('../images/arrowSmall15.png') !important;
+  background-repeat:no-repeat !important;
+  border-bottom: 1px dotted #8E5614 !important;
+  padding-left:20px !important;
+  background-position: left bottom !important;
+  padding-top:5px !important;
+}
+/*** -och- Från gammal mall för att fixa ikoner -TEST- MP 16/08/13***/
+/* Nya ikon-länkar. Ersätter lu-css */
+p.newIconList3pil {
+  background: url(../../../graphics/arrow_icon_right_blue.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 6px;
+  line-height: 1.3em;
+}
+.placeB p.newIconList3pil, .rightcolumn p.newIconList3pil {
+  background: url(../../../graphics/arrow_icon_right_brown_tight.gif) top left no-repeat;
+  padding-bottom: 2px;
+  padding-left: 20px;
+}
+p.newIconList3pdf {
+  background: url(../../../objects/lista/images/pdf.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 8px;
+  line-height: 1.3em;
+}
+p.newIconList3doc {
+  background: url(../../../objects/lista/images/word.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 8px;
+  line-height: 1.3em;
+}
+.placeA p.newIconList3doc {
+  background: url(../../../objects/lista/images/word.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 4px;
+  line-height: 1.3em;
+}
+.placeB p.newIconList3doc, .rightcolumn p.newIconList3doc {
+  background: url(../../../objects/lista/images/word.gif) top left no-repeat;
+  padding-bottom: 2px;
+  padding-left: 20px;
+}
+.placeA p.newIconList3xls {
+  background: url(../../../objects/lista/images/excel.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 4px;
+  line-height: 1.3em;
+}
+.placeB p.newIconList3xls, .rightcolumn p.newIconList3xls {
+  background: url(../../../objects/lista/images/excel.gif) top left no-repeat;
+  padding-bottom: 2px;
+  padding-left: 20px;
+}
+.placeA p.newIconList3ppt {
+  background: url(../../../objects/lista/images/powerpoint.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 4px;
+  line-height: 1.3em;
+}
+.placeB p.newIconList3ppt, .rightcolumn p.newIconList3ppt {
+  background: url(../../../objects/lista/images/powerpoint.gif) top left no-repeat;
+  padding-bottom: 2px;
+  padding-left: 20px;
+}
+.placeA p.newIconList3dat {
+  background: url(../../../objects/lista/images/data.gif);
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+  padding-left: 40px;
+  padding-top: 4px;
+  line-height: 1.3em;
+}
+.placeB p.newIconList3dat, .rightcolumn p.newIconList3dat  {
+  background: url(../../../objects/lista/images/data.gif) top left no-repeat;
+  padding-bottom: 2px;
+  padding-left: 20px;
+}
+
+/***ENDFrån gammal mall för att fixa ikoner SLUT**/
+
+/*Partners/sammprofilering MP 23/09/13*/
+.partnerLogoContainer 
+{
+float: left;
+width: 208px;
+margin-left:35px;
+}
+.partners-title
+{
+margin:10px 0px 0px 35px;
+padding:0px;
+}
+#partners-wrapper
+{
+width:976px;
+}
+#partners-content
+{
+padding:0px;
+margin:0px;
+margin-top:20px ;
+}
+/* Fixa till p-tagg i shortcuts */
+#shortcuts p {
+  margin: 0px;
+  padding: 3px 7px; /*Denna var 0 innan MP 28/07/13*/
+}
+/* Fixa css i shortcuts så att man kan ta bort shortcutmeny om inga shortcuts finns MP 28/07/13*/
+#searchshortcuts #shortcuts {
+padding: 0px;
+}
+#searchshortcuts:hover #shortcuts:hover {
+padding: 0px;
+}
+.no-touch #shortcuts:hover, .touch #shortcuts.shortcuts_hover {
+    margin-bottom: -1px !important;
+    padding-bottom: 6px !important;
+}
+
+.no-touch .department #shortcuts:hover, .touch .department #shortcuts.shortcuts_hover {
+    margin-bottom: -7px !important;
+    padding-bottom: 12px !important;
+}
+.department #shortcuts ul{
+z-index:3000;
+}
+#shortcuts ul{
+z-index:3000;
+}
+/*Fixa img i banner (Large)*/
+.promo_banner_image {
+width: 516px; 
+}
+.promo_banner_text{
+width: 220px;
+}
+.promo_banner_title{
+color: #8E5614;
+}
+.promo_banner_lead{
+color:#000;
+font:13px Arial, sans-serif;
+margin:0;
+padding:0 32px 32px;
+}
+.promo_banner_icon{
+right:15px;
+}
+
+#text_wrapper.grid-23.omega div.promo_banner div.rightContainer {
+float: none;
+overflow:hidden;
+}
+
+/*fix promo textColors added MP 24/07/13*/ 
+
+.promo_text_white .promo_lead , .promo_text_white {
+color: white !important;
+}
+.promo_text_brown .promo_lead, .promo_text_brown {
+color: #8E5614 !important;
+}
+.promo_text_white .promo_title, .promo_text_white {
+color: white !important;
+}
+.promo_text_brown .promo_title, .promo_text_brown {
+color: #8E5614 !important;
+}
+
+/*added arrow to big image, had to fix opacity. MP 10/2013*/
+.top-promo-icon{
+opacity: inherit;
+}
+
+/*inlinePromoBlock*/
+.inlineVideoSpan{
+margin: 0 auto;
+}
+/* *END* inlinePromoBlock*/
+
+/* Promo margins fix MP 2014-05-16
+** 
+
+div.promo_wrapper .start-grid-8 {
+margin-left: 0px;
+margin-right: 15px;
+}
+*/
+.promo_wrapper  { padding: 15px 0px 0px 15px; }
+.no-sidebar .promo_wrapper  { padding: 15px 0px 0px 10px; }
+.promo_wrapper  .promo_wrapper_title { max-width:100%; }
+div.promo_wrapper .start-grid-8 
+{
+margin-left: 0px;
+margin-right: 15px;
+}
+div.promo_wrapper .start-grid-8  .alpha
+{
+margin-left: 0px;
+margin-right: 15px;
+}
+div.promo_wrapper  .start-grid-8  .omega
+{
+margin-left: 0px;
+margin-right: 15px;
+}
+div.promo_wrapper .start-grid-7 
+{
+margin-left: 10px;
+margin-right: 10px;
+}
+div.promo_wrapper .start-grid-7  .alpha
+{
+margin-left: 10px;
+margin-right: 10px;
+}
+div.promo_wrapper  .start-grid-7  .omega
+{
+margin-left: 10px;
+margin-right: 10px;
+}
+.no-sidebar div.promo_wrapper .start-grid-7 
+{
+margin-left: 13px;
+margin-right: 10px;
+}
+.no-sidebar  div.promo_wrapper .start-grid-7  .alpha
+{
+margin-left: 13px;
+margin-right: 10px;
+}
+.no-sidebar  div.promo_wrapper  .start-grid-7  .omega
+{
+margin-left: 13px;
+margin-right: 10px;
+}
+.no-sidebar  div.promo_wrapper  .grid-14  
+{
+margin-left: 16px !important;
+
+}
+#landing_page div.promo_wrapper .start-grid-7 
+{
+margin-left: 20px;
+margin-right: 10px;
+}
+#landing_page div.promo_wrapper .start-grid-7  .alpha
+{
+margin-left: 10px;
+margin-right: 10px;
+}
+#landing_page div.promo_wrapper  .start-grid-7  .omega
+{
+margin-left: 10px;
+margin-right: 10px;
+}
+.grid-15 .promo_wrapper .start-grid-7 
+{
+margin-left: 5px;
+margin-right: 0px;
+}
+/*
+.grid-15  .promo_wrapper .start-grid-7  .alpha
+{
+margin-left: 0px ;
+margin-right: 0px;
+}
+
+.grid-15  .promo_wrapper  .start-grid-7  .omega
+{
+margin-left: 10px;
+margin-right: 0px;
+}
+*/
+div.promo_wrapper .grid-14 
+{
+width:402px;
+margin-left: 10px;
+margin-right: 10px;
+}
+div.promo_wrapper 
+{
+background-color: inherit !important;
+}
+.promo_img_mini {height:96px;}
+.promo_img_mini a {height:96px; display:block;}
+#landing_page div.promo_wrapper_landing .promo.start-grid-8 {  
+  margin-left: 0px;
+  margin-right: 16px;
+}
+#landing_page div.promo_wrapper_landing .promo:nth-child(3n+3) {  
+  margin-right: 0px;
+}
+
+
+/*****************************************************inlinePromos-MP-10/2013*********************************************/
+.presentationContainer
+{
+/*background:#F8F3EA;
+margin-bottom:16px;*/
+background-color: #FFFFFF;
+padding:64px;
+display:none;
+}
+.presentationHeader
+{
+    border-bottom: 1px solid;
+    border-top: 1px solid #9C6114;
+    color: #8E5614;
+    margin-bottom: 8px;
+    margin-top: 0;
+    padding: 8px 0;
+  font-family: Georgia,serif;
+    font-weight: 400;
+    margin-top: 0;
+}
+/*
+.
+{
+
+}
+*/
+
+/*NYTT MP 260713*/
+.leftContainer 
+{
+float:left;
+}
+.rightContainer 
+{
+float:right;
+}
+
+
+/*****************************************************SEARCH************************************************************/
+#ui-menu-0, #ui-menu-1 {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#ui-menu-0 li, #ui-menu-1 li {
+  background-color: #ffffff;
+  border-bottom: 1px #999999 solid;
+  width: 305px;
+  padding: 5px 0 5px 5px;
+}
+
+/*****************************************************MAIN NAVIGATION***************************************************/
+#main_navigation .main-nav-submenu {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 920px;
+  display: none;
+  z-index: 999;
+  line-height: 14px;
+}
+
+.main-nav-subfoot {
+  display: block;
+  clear: both;
+  height: 20px;
+}
+
+#main_navigation ul {
+  list-style: none;
+}
+
+#main_navigation .menu-level-2-wrap {
+  float: left;
+  width: 220px;
+  padding-top: 10px;
+}
+
+#main_navigation ul.menu-level-2 li a {
+  /*Rubriker*/
+  font-size: 12px;
+  font-weight: bold;
+  color: #8e5614;
+  display:block;
+  /*font-family: frutiger-bold, arial, sans-serif;*/
+  
+}
+
+#main_navigation ul.menu-level-2 li {
+  width: 220px;
+  line-height: 16px;
+  padding:0px;
+  padding-top:10px;
+}
+
+#main_navigation ul.menu-level-3 {
+  
+}
+
+#main_navigation ul.menu-level-3 li {
+  padding: 0px;
+  margin-top: 6px;
+  line-height: 16px;
+}
+
+#main_navigation ul.menu-level-3 li a {
+  /* Content */
+  /*margin: 10px 0 0 10px;*/
+  color: #000000;
+  font-size: 11px;
+  display: inline;
+  font-weight: normal;
+  display:block;
+  /*font-family: frutiger-bold, arial, sans-serif;*/
+}
+
+#main_navigation ul li a:hover {
+  text-decoration: underline;
+}
+
+.main-nav-inner-border {
+  background-color: #ffffff;
+  border: 2px #000000 solid;
+  -moz-border-radius: 15px;
+  border-radius: 12px;
+}
+
+.main-nav-arrow-up {
+  width: 100%;
+  background-image:url(../images/main-nav-arrow-up.png);
+  background-repeat: no-repeat;
+  background-position: 40px;
+  height: 35px;
+}
+
+.main-nav-inner-content-left {
+  border-right: 1px #000000 solid;
+  margin-right: 10px;
+  overflow: hidden;
+  width: 660px;
+  float: left;
+  padding: 0 0 0 20px;
+}
+
+.main-nav-inner-content-right {
+  width: 215px;
+  float: left;
+}
+/*MPTEST*/
+/*
+li.menu-level-2 {
+  font-size: 12px;
+  font-weight: bold;
+  color: #8e5614;
+  display:block;
+  /*font-family: frutiger-bold, arial, sans-serif;*/
+/*}
+li.menu-level-3 {
+  font-size: 10px;
+  font-weight: bold;
+  color: #000;
+  display:block;
+  /*font-family: frutiger-bold, arial, sans-serif;*/
+/*}
+*/
+
+
+/**************************************************************content header, eg. student lth*****LanguageMenu MP-07082013********************************/
+/**STUDENT**/
+#student {
+border-style:none;
+border-top:1px solid #9C6114;
+border-bottom:1px solid #9C6114;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.zeroMargin {margin:0px !important;}
+
+#contentHeader {
+  background-color: #DFEFE8;
+    font-family: Georgia,serif;
+    
+    line-height: 38px;
+    
+    
+  max-width: 100%;
+    text-transform: uppercase;
+}
+
+#contentHeader.grid-31 {
+min-height: 0px;
+}
+
+#contentHeader h1{
+  border-left: 2px solid #8E5614;
+    color: #8E5614;
+    font-size: 36px;
+    font-weight: normal;
+    padding-left: 20px;
+    text-decoration: none;
+  margin-left: 30px;
+  margin-top: 13px;
+  /*height: 36px;*/
+}
+
+#contentHeader a:link, a:visited, a:focus, a:hover{
+  text-decoration: none;
+  
+}
+
+/**************************************************************lang-nav*****LanguageMenu MP-07082013********************************/
+.langNO {
+float: left;
+}
+
+.langACT {
+float: left;
+display:none;
+}
+
+.langUdef {
+float: left;
+display:none; 
+}
+/*other lang version for front page*/
+.flagLink {
+border-bottom:1px solid #9C6114; 
+border-top:1px solid #9C6114;
+color:#8E5614;
+display:block;
+font-family:Arial,sans-serif;
+font-size:12px;
+font-weight:400;
+line-height:17px;
+margin-bottom:10px;
+margin-top:0;
+padding:5px 0 3px;
+}
+.flagLink .flag.gb {
+margin-top:3px;
+}
+
+
+/**************************************************************NEWS******************************************************************************/
+/******LTH newsbits*******/
+.headMiddle 
+{
+font-size:20px;
+line-height:20px;
+text-transform:uppercase;
+display:inline-block;
+margin-bottom:0;
+/*border-right:1px solid #9C6114;*/
+padding-right:16px;
+margin-right:16px;
+padding-top:10px;
+padding-bottom:10px;
+font-family:Georgia, serif;
+}
+ul.newsList li {
+  border-top: 1px #8E5614 dotted;
+  /*background-color: #f6f3e8;*/
+  padding-top:10px;
+padding-bottom:10px;
+}
+/******LTH newsbits*******/
+.news-latest-container {
+  border-top: 1px #8E5614 solid;
+  background-color: #f6f3e8;
+}
+
+.news-latest-container li {
+  margin-bottom: 10px;
+}
+
+.content-wrapper .start-content h2 {
+    font-family: Georgia,serif;
+    font-size: 16px;
+    color: #8E5614;
+    text-transform: uppercase;
+    font-weight:bold;
+    margin:0px;
+    padding:0px;
+}
+
+.content-wrapper .start-content h3 {
+    font-family: Georgia,serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #8E5614;
+    font-weight:bold;
+    margin:0px;
+    padding:0px;
+}
+
+.top-story {
+  border-top: 1px #000000 solid;
+  width: 720px;
+  margin-top: 20px;
+  
+}
+
+.top-story img {
+  float:right;
+  margin:12px 0 0 12px;
+}
+
+.top-story-content {
+  padding: 12px;
+}
+
+.top-story h3 a {
+  font-size: 18px;
+    line-height: 30px;
+    font-weight:normal;
+}
+
+.news-single-item h3 {
+  /*font-size: 14px;
+    line-height: normal;*/
+  font-family: Arial,sans-serif;
+  margin-top: 10px;
+  
+  font-weight: bold;
+  font-size:13px;
+  line-height: inherit;
+  margin-bottom: 15px;
+}
+
+/*Quick fix to get rid of news JS link MP 2014/01/20*/
+
+.news-wrapper a,.news-wrapper .list_link a:hover{text-decoration:none;}
+.news-wrapper .list_link a{color:#FFF;font-weight:700;font-size:11px;display:inline-block;background:#9C6114;padding:4px 10px 4px 10px;}
+.news-vertical .list_link a{margin-top:-6px;}
+.news-horizontal .list_link{float:left;display:inline-block;margin-top:20px;}
+
+/**************************************************************Login box*************************************************************************/
+#toolbar_navigation_right {
+  position:relative;
+}
+
+#login_box {
+  display: none;
+  position: absolute;
+  width: 236px;
+  top: 25px;
+  right: 0px;
+  z-index: 999999;
+}
+
+#login_box_content {
+  background-color:#ffffff;
+  border: 1px black solid;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+  float:left;
+  width:236px;
+  height: 200px;
+}
+
+#login_box_content input {
+  height: 15px;
+}
+/*************************************************************Formhandler*****************************************************************/
+/*Form-css moved here to separate style from content MP 12/07/13*/
+#form_body {
+margin: 0px 0px 10px 0px;
+padding:0px;
+}
+.submitted {
+margin:15px;
+}
+.controls {
+padding-bottom:10px;
+}
+.whiteForm {
+border: none;
+/*border: 1px Solid #c8c8c8;
+background: #f0f0f0;
+width:500px;*/
+}
+
+
+.help-inline {
+  color: red;
+  margin-left: 10px;
+}
+
+.form-horizontal {
+  position: relative;
+  z-index: 1;
+}
+
+.formhandler-ajax-submit {
+  display: none;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  z-index: 10;
+}
+.no-border {
+border:none;
+}
+/********************************************************Event reg******************************************************************************/
+.event-reg-modal-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 9999;
+  
+  background-image: -webkit-radial-gradient(
+    rgba(127, 127, 127, 0.5) 0%,
+    rgba(127, 127, 127, 0.6) 40%,
+    rgba(0,   0,   0,   0.7) 100%
+  );
+  background-image: -moz-radial-gradient(
+    rgba(127, 127, 127, 0.5),
+    rgba(127, 127, 127, 0.6) 40%,
+    rgba(0,   0,   0,   0.7)
+  );
+}
+.event-reg-outer-extra {
+  outline: 5px #ffffff solid;
+}
+
+div.event-reg-modal-window {
+  position: fixed;
+  top: 50px;
+  left: 200px;
+  z-index: 99999;
+  font-family: Arial, sans-serif;
+}
+
+.event-reg-modal-window .ui-widget {
+  font-family: Arial, sans-serif;
+}
+
+.event-reg-linkbrowser-container {
+  width:1005px;
+  height:720px;
+  background-color: #cccccc;
+  position: relative;
+  border: 1px #000000 solid;
+}
+
+.event-reg-linkbrowser-top {
+  background-color: #dedede;
+  width: 755px;
+  padding: 5px 0 5px 0;
+  padding-left: 240px;
+  margin: 5px 0 5px 5px;
+}
+
+.event-reg-linkbrowser-tree {
+  background-color: #ffffff;
+  width: 200px;
+  height: 645px;
+  float: left;
+  padding: 10px;
+  margin-left: 5px;
+  overflow: auto;
+}
+
+.event-reg-linkbrowser-content {
+  background-color: #ffffff;
+  width: 750px;
+  height: 645px;
+  float: left;
+  padding: 10px;
+  overflow: auto;
+}
+
+.event-reg-linkbrowser-content-wide {
+  background-color: #ffffff;
+  width: 985px;
+  height: 645px;
+  float: left;
+  padding: 10px;
+  overflow: auto;
+}
+
+.event-reg-linkbrowser-spacer {
+  width: 5px;
+  height: 645px;
+  float: left;
+}
+
+.event-reg-linkbrowser-close {
+  position: absolute;
+  left: 970px;
+  top: 0px;
+  z-index: 999999;
+}
+
+/*********************************************************Pimp bootstrap*****************************************************************************/
+.btn-group a {
+  text-decoration: none;
+  color: #000000;
+}
+
+i {
+  cursor:pointer;
+}
+
+.typeahead {
+  z-index: 1051;
+  margin-top: 2px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+
+/*********************************************************Lightbox************************************************************************************/
+/*! fancyBox v2.1.4 fancyapps.com | fancyapps.com/fancybox/#license */
+.fancybox-wrap,
+.fancybox-skin,
+.fancybox-outer,
+.fancybox-inner,
+.fancybox-image,
+.fancybox-wrap iframe,
+.fancybox-wrap object,
+.fancybox-nav,
+.fancybox-nav span,
+.fancybox-tmp
+{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: none;
+  vertical-align: top;
+}
+
+.fancybox-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 8020;
+}
+
+.fancybox-skin {
+  position: relative;
+  background: #f9f9f9;
+  color: #444;
+  text-shadow: none;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+.fancybox-opened {
+  z-index: 8030;
+}
+
+.fancybox-opened .fancybox-skin {
+  -webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+     -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+.fancybox-outer, .fancybox-inner {
+  position: relative;
+}
+
+.fancybox-inner {
+  overflow: hidden;
+}
+
+.fancybox-type-iframe .fancybox-inner {
+  -webkit-overflow-scrolling: touch;
+}
+
+.fancybox-error {
+  color: #444;
+  font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin: 0;
+  padding: 15px;
+  white-space: nowrap;
+}
+
+.fancybox-image, .fancybox-iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.fancybox-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+  background-image: url('../images/fancybox/fancybox_sprite.png');
+}
+
+#fancybox-loading {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -22px;
+  margin-left: -22px;
+  background-position: 0 -108px;
+  opacity: 0.8;
+  cursor: pointer;
+  z-index: 8060;
+}
+
+#fancybox-loading div {
+  width: 44px;
+  height: 44px;
+  background: url('../images/fancybox/fancybox_loading.gif') center center no-repeat;
+}
+
+.fancybox-close {
+  position: absolute;
+  top: -18px;
+  right: -18px;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  z-index: 8040;
+}
+
+.fancybox-nav {
+  position: absolute;
+  top: 0;
+  width: 40%;
+  height: 100%;
+  cursor: pointer;
+  text-decoration: none;
+  background: transparent url('../images/fancybox/blank.gif'); /* helps IE */
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  z-index: 8040;
+}
+
+.fancybox-prev {
+  left: 0;
+}
+
+.fancybox-next {
+  right: 0;
+}
+
+.fancybox-nav span {
+  position: absolute;
+  top: 50%;
+  width: 36px;
+  height: 34px;
+  margin-top: -18px;
+  cursor: pointer;
+  z-index: 8040;
+  visibility: hidden;
+}
+
+.fancybox-prev span {
+  left: 10px;
+  background-position: 0 -36px;
+}
+
+.fancybox-next span {
+  right: 10px;
+  background-position: 0 -72px;
+}
+
+.fancybox-nav:hover span {
+  visibility: visible;
+}
+
+.fancybox-tmp {
+  position: absolute;
+  top: -99999px;
+  left: -99999px;
+  visibility: hidden;
+  max-width: 99999px;
+  max-height: 99999px;
+  overflow: visible !important;
+}
+
+/* Overlay helper */
+
+.fancybox-lock {
+  overflow: hidden;
+}
+
+.fancybox-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  display: none;
+  z-index: 8010;
+  background: url('../images/fancybox/fancybox_overlay.png');
+}
+
+.fancybox-overlay-fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.fancybox-lock .fancybox-overlay {
+  overflow: auto;
+  overflow-y: scroll;
+}
+
+/* Title helper */
+
+.fancybox-title {
+  visibility: hidden;
+  font: normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+  position: relative;
+  text-shadow: none;
+  z-index: 8050;
+}
+
+.fancybox-opened .fancybox-title {
+  visibility: visible;
+}
+
+.fancybox-title-float-wrap {
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+  margin-bottom: -35px;
+  z-index: 8050;
+  text-align: center;
+}
+
+.fancybox-title-float-wrap .child {
+  display: inline-block;
+  margin-right: -100%;
+  padding: 2px 20px;
+  background: transparent; /* Fallback for web browsers that doesn't support RGBa */
+  background: rgba(0, 0, 0, 0.8);
+  -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+          border-radius: 15px;
+  text-shadow: 0 1px 2px #222;
+  color: #FFF;
+  font-weight: bold;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.fancybox-title-outside-wrap {
+  position: relative;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.fancybox-title-inside-wrap {
+  padding-top: 10px;
+}
+
+.fancybox-title-over-wrap {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+  padding: 10px;
+  background: #000;
+  background: rgba(0, 0, 0, .8);
+}
+
+/****
+**MP 17/06/13 ta bort bakgrundsfärg från liquid slider, blir problem med transparenta bilder annars
+****/
+.liquid-slider-wrapper .liquid-slider {
+background: none repeat scroll 0 0 #ffffff;
+}
+/*.text-full byttes us mot .no-sidebar i v1.1 av mallarna, 
+jag har ändrat överallt som jag kom på men overridar den gamla 
+klassen här för säkerhets skull -MP 29/07/13
+*/
+#text_wrapper .text-full{margin-right:16px;}
+/*Klasser för snabb text-formattering /MP 2014-07-03*/
+.normal {font-weight:normal;}
+.thick {font-weight:bold;}
+.top-promo img{
+height: auto;
+width:100%;
+}
+.top-promo{height:435px; margin-bottom:16px;}
+.top-promo-overlay{height:435px;}
+/*==============================================================*/ 
+/* Classes/overrides for newsPortal                         */
+/*MP 2014/10/17                             */
+/*==============================================================*/
+#newsPortal .start-grid-8, #newsPortal .start-grid-16, #newsPortal .start-grid-23 {
+padding-top: 16px;
+}
+#newsPortal .grid-7 {
+
+}
+/* DESSA flyttades till CSSen på nyhetsportalen, krockade med annat på medarbetarsidorna
+#newsPortal .top-promo img {
+position: inherit;
+}
+#newsPortal .top-promo, #newsPortal .top-promo-overlay {
+height: 100%;
+}
+*/
+.start-grid-16{display:inline;float:left;min-height:1px;position:relative;margin:0 8px;width:480px;}
+.alpha{margin-left:0;}
+.omega{margin-right:0;}
+/*=============================================================*/ 
+/* Classes for "expand-div" function -Expand list DCE      */
+/*MP 2013/12/20                          */
+/*=============================================================*/
+.expandHeader {
+  text-decoration: none;
+  color:#8E5614;
+  background-image:url('../images/arrowSmall15.png');
+  background-repeat:no-repeat;
+  border-bottom: 1px dotted #8E5614;
+  padding-left:20px;
+  background-position: left bottom;
+  padding-top:5px;
+  display:inline-block;
+  margin: 10px;    
+    cursor:pointer;
+}
+.expandContainer .expandContent {
+    /*display: none;*/
+    padding : 5px;
+    margin-left:40px;
+}
+.expandContainer:nth-child(odd) {
+background: #F8F3EA;
+}
+.expandMainTitle {
+font-size: 20px;
+margin-bottom: 4px;
+margin-top: 16px;
+/*color: #8E5614;*/
+}
+/*=============================================================*/ 
+/* Classes for contact content in mega-menu function -Expand list DCE */
+/*MP 2013/12/20                          */
+/*=============================================================*/
+.mainTitle {
+color: #8E5614;
+font-family: Georgia,serif;
+font-size: 24px;
+line-height: 34px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+margin-top: 0px;
+}  
+  .contactAddress {
+color: #8E5614;
+font-size: 18px;
+line-height: 16px;
+    /*font-family: Georgia,serif;
+line-height: 34px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+    margin-top: 37px;*/
+}  
+  #newContactContent {
+   background-image: url('../img/kvartssigill.png');
+background-repeat: no-repeat;
+background-position-x: right;
+background-position-y: bottom;
+background-position: right bottom;
+border: 1px solid #9C6114;
+padding: 20px;
+display: inline-block;
+width: 432px;
+margin: 20px;
+    /*width: 432px;
+    height: 132px;*/
+  }
+  .crisisInfo  a{
+  border: none !important;
+  
+  }
+  .crisisInfo h2, h2.menuPromoH2  {
+border-bottom: 1px solid #9C6114;
+border-top: 1px solid #9C6114;
+color: #8E5614;
+display: block;
+font-family: Arial,sans-serif;
+font-size: 12px;
+font-weight: 400;
+line-height: 17px;
+margin-bottom: 10px;
+text-transform: uppercase;
+padding: 5px 0 3px 10px;
+margin-top: 20px;
+  
+  }
+  .main-nav-inner-content-right {
+  width: 200px;
+  float: right;
+  border-left: 1px #000000 solid;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+  
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/* Needed to make bootstrap play with lu-css */
+/*Fix problems with bootstrap and lucal.css MP 2016-05-26 remove when added to lucal.css*/
+.tx-lthlucal-pi1,
+#responsive_navigation_wrapper *,
+#footer_wrapper,
+#footer_content,
+#footer_content .clearfix,
+#footer_content .column,
+#partners-content .column,
+#searchsite,
+.news-wrapper *,
+.calendar-wrapper *,
+.center-left,
+.center-right,
+#lu_header_wrapper *,
+.text-wrapper,
+#searchresult *,
+#footer_content .dl-horizontal dd,
+#footer_content .container,
+#footer_content .container-fluid,
+#footer_content .row,
+#footer_content .form-horizontal .form-group,
+#footer_content .nav,
+#footer_content .panel-body,
+#footer_content .modal-footer {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+#lu_search_submit,
+#edit-submit {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.lth_article {
+    display:none;
+}
+
+#searchSite {
+    height:15px;
+    font-family: arial;
+    font-size: 12px;
+    width:150px;
+    margin-top:5px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 11px;
+    padding-left: 5px;
+}
+
+#searchsite_submit {
+    height:23px;
+    padding-top:6px !important;
+    padding-bottom:8px !important;
+    margin-bottom:10px;
+}
+/*
+*   tab fix might be fixed in main in newer versions after 1.3.1 
+*   -check and remove if true MP 2017-03-02/
+*/
+.tabLayout #content_sidebar {
+    margin-right: 0px !important;
+}
+
+/* Fix responsive facebook-movies
+TH 170324
+*/
+.facebook-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.facebook-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
