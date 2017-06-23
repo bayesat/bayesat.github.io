@@ -1,0 +1,87 @@
+---
+title: "Bayes@: Approachable mini conferences on applied Bayesian statistics"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome! On this page you will find information regarding the Bayes@ series of mini-conferences.
+
+A Bayes@ mini-conference is a, more or less, local one day event bring together people working with or interested in Bayesian methods. Bayes@ events aims at being accessible to people with little experience of Bayesian methods while still being relevant to experienced practitioners. The focus is on how Bayesian methods are used in research and industry, what the advantages and challenges are with using Bayesian methods, and how Bayesian methods can be used and taught in a better way. 
+
+The first Bayes@ event was organized in Lund, Sweden by Rasmus Bååth and Ullrika Sahlin in 2014 when they noticed that, while many people use Bayesian methods at the university, they were spread all over campus. Rasmus and Ullrika thought: Why not meet up and share experiences and tips in a one day mini-conference? And so they did.
+
+Arrange your own Bayes@ conference
+--------------
+
+So far Bayes@ has only been arranged at Lund University, Sweden. But we think that these types of events are so nice that more people should arrange them! We *definately* don't claim any rights to any "Bayes@" brand, but you are free to use our logo ([here in svg format](media/bayes_at_logo_template_inkscape.svg) for editing in[Inkscape](https://inkscape.org/)). Also, if you do arrange a Bayes@ event, please let us know and we will add it to this page. Finally, if you want any tips, or want to discuss ideas regarding an event, feel free to reach us at rasmus.baath@gmail.com .
+
+The format of a Bayes@ event has so far been something like the following:
+
+* A one day workshop (we call it a mini-conference) with talks that aim at being accessible to an interested but disciplinary diverse audience.
+* One or two longer presentation by invited speakers and a number of shorter submitted presentations.
+* The topics can be anything related to Bayesian statistics and data analysis, but we try to discourage too technical presentations. 
+* Free or cheap to attend.
+* A tutorial to a topic in Bayesian statistics held just before the conference.
+
+Past Bayes@ conferences
+-----------------
+
+### Bayes\@Lund 2017
+
+<img src="lund2017/bayes_at_lund_logo_2017_large.png" alt="Bayes@Lund 2017" style="width: 400px;"/>
+
+*20th April 2017, Lund University, Sweden*
+
+Main Organizers: Umberto Picchini and Ullrika Sahlin <br>
+Invited speakers: Richard McElreath and Darren Wilkinson
+
+[Webpage](lund2017/www.maths.lu.se/bayeslund2017/index.html), 
+[Book of abstracts](lund2017/bayes_at_lund_2017_program.pdf), 
+[Presentation slides](lund2017/bayeslund17-pdf-slides.zip)
+
+
+
+### Bayes\@Lund 2016
+
+<img src="lund2016/bayes_at_lund_logo_2016_1000_px.png" alt="Bayes@Lund 2016" style="width: 400px;"/>
+
+
+*5th February 2016, Lund University, Sweden*
+
+Main Organizers: Rasmus Bååth and Ullrika Sahlin <br>
+Invited speakers: Eric-Jan Wagenmakers and Robert Grant
+
+[Webpage](lund2016/bayes_at_lund_2016.html), 
+[Program and abstracts](lund2016/bayes_at_lund_2016_program.pdf),
+[Poster](lund2016/bayes_at_lund_2016_poster.pdf)
+
+### Bayes\@Lund 2015
+
+<img src="lund2015/Bayes_at_lund_15_logo_large.png" alt="Bayes@Lund 2015" style="width: 400px;"/>
+
+*10th February 2015, Lund University, Sweden*
+
+Main Organizers: Ullrika Sahlin, Rasmus Bååth, Krzysztof Podgorski, and Paul Caplat <br>
+Invited speakers: Mattias Villani
+
+[Webpage](lund2015/www.lucs.lu.se/bayes-at-lund-2015/index.html), 
+[Program and abstracts](lund2015/bayes_at_lund_2015_program.pdf), 
+[Poster](lund2015/bayes_at_lund_2015_poster.pdf)
+
+### Bayes\@Lund 2014
+
+<img src="lund2014/bayes_at_lund_14.png" alt="Bayes@Lund 2014" style="width: 400px;"/>
+
+
+
+*10th April 2014, Lund University, Sweden*
+
+Main Organizers: Rasmus Bååth and Ullrika Sahlin
+
+[Webpage](lund2014/www.lucs.lu.se/bayes-at-lund-2014/index.html), 
+[Program and abstracts](lund2014/BayesAtLund2014Program.pdf), 
+[Summary of the conference](lund2014/summaryBayesatLund2014.pdf), 
+[Poster](lund2014/Bayes_at_Lund_2014.pdf)
