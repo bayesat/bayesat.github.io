@@ -13,19 +13,6 @@ A Bayes@ mini-conference is a, more or less, local one day event bring together 
 
 The first Bayes@ event was organized in Lund, Sweden by Rasmus Bååth and Ullrika Sahlin in 2014 when they noticed that, while many people use Bayesian methods at the university, they were spread all over campus. Rasmus and Ullrika thought: Why not meet up and share experiences and tips in a one day mini-conference? And so they did.
 
-Arrange your own Bayes@ conference
---------------
-
-So far Bayes@ has only been arranged at Lund University, Sweden. But we think that these types of events are so nice that more people should arrange them! We *definately* don't claim any rights to any "Bayes@" brand, but you are free to use our logo ([here in svg format](media/bayes_at_logo_template_inkscape.svg) for editing in[Inkscape](https://inkscape.org/)). Also, if you do arrange a Bayes@ event, please let us know and we will add it to this page. Finally, if you want any tips, or want to discuss ideas regarding an event, feel free to reach us at rasmus.baath@gmail.com .
-
-The format of a Bayes@ event has so far been something like the following:
-
-* A one day workshop (we call it a mini-conference) with talks that aim at being accessible to an interested but disciplinary diverse audience.
-* One or two longer presentation by invited speakers and a number of shorter submitted presentations.
-* The topics can be anything related to Bayesian statistics and data analysis, but we try to discourage too technical presentations. 
-* Free or cheap to attend.
-* A tutorial to a topic in Bayesian statistics held just before the conference.
-
 Past Bayes@ conferences
 -----------------
 
@@ -85,3 +72,16 @@ Main Organizers: Rasmus Bååth and Ullrika Sahlin
 [Program and abstracts](lund2014/BayesAtLund2014Program.pdf), 
 [Summary of the conference](lund2014/summaryBayesatLund2014.pdf), 
 [Poster](lund2014/Bayes_at_Lund_2014.pdf)
+
+Arrange your own Bayes@ conference
+--------------
+
+So far Bayes@ has only been arranged at Lund University, Sweden. But we think that these types of events are so nice that more people should arrange them! We *definately* don't claim any rights to any "Bayes@" brand, but you are free to use our logo ([here in svg format](media/bayes_at_logo_template_inkscape.svg) for editing in[Inkscape](https://inkscape.org/)). Also, if you do arrange a Bayes@ event, please let us know and we will add it to this page. Finally, if you want any tips, or want to discuss ideas regarding an event, feel free to reach us at rasmus.baath@gmail.com .
+
+The format of a Bayes@ event has so far been something like the following:
+
+* A one day workshop (we call it a mini-conference) with talks that aim at being accessible to an interested but disciplinary diverse audience.
+* One or two longer presentation by invited speakers and a number of shorter submitted presentations.
+* The topics can be anything related to Bayesian statistics and data analysis, but we try to discourage too technical presentations. 
+* Free or cheap to attend.
+* A tutorial to a topic in Bayesian statistics held just before the conference.
