@@ -18,7 +18,7 @@ The first Bayes@ event was organized in Lund, Sweden by Rasmus Bååth and Ullri
 
 <center>
 ![](media/bayes_at_lund_2016_photo1.jpeg) <br>
-*Photos from Bayes\@Lund 2016 including the invited speakers Eric-jan Wagenmaker (left) and Robert Grant (right).*
+*Photos from Bayes\@Lund 2016 including the invited speakers Eric-jan Wagenmakers (left) and Robert Grant (right).*
 </center>
 
 Past Bayes@ conferences
