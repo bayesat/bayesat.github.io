@@ -1,6 +1,8 @@
 ---
 title: "Bayes@: Approachable mini conferences on applied Bayesian statistics"
-output: html_document
+output: 
+  html_document: 
+    fig_caption: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -9,9 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome! On this page you will find information regarding the Bayes@ series of mini-conferences.
 
-A Bayes@ mini-conference is a (more or less) local one day event bring together people working with or interested in Bayesian methods. Bayes@ events aims at being accessible to people with little experience of Bayesian methods while still being relevant to experienced practitioners. The focus is on how Bayesian methods are used in research and industry, what the advantages and challenges are with using Bayesian methods, and how Bayesian methods can be used and taught in a better way. 
+A Bayes@ mini-conference is a (more or less) local one day event bring together people working with or interested in Bayesian methods. Bayes@ events aims at being accessible to people with little experience of Bayesian methods while still being relevant to experienced practitioners. The focus is on how Bayesian methods are used in research and industry, what the advantages and challenges are with using Bayesian methods, and how Bayesian methods can be used and taught in a better way.
+
 
 The first Bayes@ event was organized in Lund, Sweden by Rasmus Bååth and Ullrika Sahlin in 2014 when they noticed that, while many people use Bayesian methods at the university, they were spread all over campus. Rasmus and Ullrika thought: Why not meet up and share experiences and tips in a one day mini-conference? And so they did.
+
+<center>
+![](media/bayes_at_lund_2016_photo1.jpeg) <br>
+*Photos from Bayes\@Lund 2016 including the invited speakers Eric-jan Wagenmaker (left) and Robert Grant (right).*
+</center>
 
 Past Bayes@ conferences
 -----------------
