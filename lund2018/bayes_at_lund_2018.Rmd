@@ -1,0 +1,133 @@
+---
+output: 
+  html_document: 
+    css: bayes_at_lund_2018.css
+    highlight: null
+    theme: spacelab
+    fig_caption: true
+---
+
+<div class = "animated fadeInDown" style = "display: block; width: 601px; margin-top: 50px; margin-bottom: 25px; margin-left: auto; margin-right: auto; text-align: center;">
+  <img src="bayes_at_lund_logo_2018_600_px.png" height = "213"" width = "601">
+  <h2> April, 2018, Lund University</h2>
+</div>
+
+Researchers and students are welcome to participate in the third edition of Bayes&#64;Lund! The purpose of this conference is to bring together researchers working with or interested in Bayesian methods. Bayes&#64;Lund aims at being **accesible** to researchers with little experience of Bayesian methods while still being **relevant** to experienced practitioners. The focus is on how Bayesian methods are used in research, what advantages Bayesian methods have over classical alternatives, and how the use and teaching of Bayesian methods can be encouraged. 
+
+<!--<img src="EJ_smaller.jpeg" alt="EJ" align="right" style="margin: 10px"> -->
+
+The conference will feature a number of contributed talks, short tutorials, and invited keynote speakers. For what to expect, check out the program from [Bayes@Lund 2017](../lund2017/www.maths.lu.se/bayeslund2017/index.html)and [Bayes@Lund 2016](../lund2016/bayes_at_lund_2016.html).
+
+<center>
+![](../media/bayes_at_lund_2016_photo1.jpeg) <br>
+*Photos from Bayes\@Lund 2016 including the invited speakers Eric-jan Wagenmakers (left) and Robert Grant (right).*
+</center>
+
+Call for Presentations
+------------------------
+
+To contribute a presentation for Bayes&#64;Lund please send in the title of your talk with an abstract (not more than 100 words) to rasmus.baath@gmail.com. Final date for presentations submission is the 11th of February. Any topic related to Bayesian methods is relevant including, but not restricted to:
+
+* **Case studies**. Have you used Bayesian methods in your research? Describe what you did, and how it worked out.
+* **Tutorial style talks**. Want to share your favorite tool or modeling technique? This does not have to be novel research, just a useful tool *for* research!
+* **Method development**. Are you developing novel Bayesian methods that you want to share?
+* **Teaching Bayes**. Do you have experiences teaching Bayesian methods. What was the challenges, and do you have any useful tips?
+
+Each accepted speaker is given 20 minutes and, as the audience will be highly heterogeneous, the talk is expected to be accessible and engaging for a multidisciplinary audience. 
+
+
+Conference registration
+-----------------------
+
+Bayes&#64;Lund is free to attend, but as the space is limited we ask you to register your attendance here. The final date of registration is __1st of April__.
+
+**Registration is currently closed, but will open soon.**
+
+<!--
+<center>
+<iframe src="https://docs.google.com/forms/d/1zyRD6ph9uXWGMnmAjETopniEZHwfJ-Q2K_2-ACBBMEY/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</center>
+-->
+
+Important Dates
+---------------
+* Final date for presentations submission: __11th of February__
+* Notifications to presenters: __18th of February__
+* Final date for registration: __1th of April__
+* The conference: __April__ *Date to be announced*
+
+Location
+---------------
+
+*To be announced*
+
+<!--
+Program
+-------------
+
+For the full program, including abstracts, see [the program booklet](http://www.lucs.lu.se/wp-content/uploads/2016/01/bayes_at_lund_2016_program.pdf).
+
+-----------------------------------------------------------------
+  &nbsp;      &nbsp;
+  
+------------- --------------------------------------------------
+ 11.45        Registration opens (just outside room LUX:C121)
+ 
+ 12.15-12.45  Welcome and invited presentation </br>
+              - **_An Introduction to Bayesian computation and evidence synthesis using STAN_, [Robert Grant](http://www.robertgrantstats.co.uk/), Faculty of Health, Social Care and Education, University of London.** 
+   
+ 12.45-13.15  Sandwich lunch and mingle in the foyer (free, but requires registration)
+              
+ 13.15-14.15  Keynote presentation</br>
+              - **_Bayesian Benefits for the Pragmatic Researcher_, [Eric-Jan Wagenmakers](http://www.ejwagenmakers.com/), Department of Psychology, University of Amsterdam.**
+               
+ 14.20-15.10  Session 1 </br>
+              - **_Bayesian Meta Analysis and Bias Modeling: A Case Study with Relative Clause Processing in Mandarin Chinese_, [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and Lena Jaeger, Departement of Linguistics, University of Potsdam.** </br> 
+              - **_A Bayesian reflection on the meaning of evidence_, [Ullrika Sahlin](http://evidence.blogg.lu.se/),  Centre for Environmental and Climate Research, Lund University.** </br>
+              - **_The Bootstrap is a Bayesian procedure, but that doesn't mean it's any good_, [Rasmus Bååth](http://www.sumsar.net), Lund University Cognitive Science.**
+ 
+ 15.10-15.30  Coffee and cake
+
+ 15.30-16.30  Session 2 </br>
+              - **_Bayesian methods in epidemiological research – why so seldom used?_ [Jonas Björk](http://www.med.lu.se/labmedlund/amm/kontakt/jonas_bjoerk),  Division of occupational and environmental medicine, Lund University.**</br>
+              - **_Regularized supervised topic models for high-dimensional multi-class regression_, [Måns Magnusson](https://twitter.com/MansMeg),  Department of Computer and Information Science, Linköping University.**</br>
+              - **_Modeling the growth of Swedish Scots pines_, [Henrike Häbel](https://www.chalmers.se/en/staff/Pages/henrike-habel.aspx), Department of Mathematical Sciences, Chalmers University of Technology.**
+              
+ 16.30          Concluding remarks and end of conference.
+                   
+------------- --------------------------------------------------
+
+Pre-conference tutorial on Bayesian inference
+-------------------------
+
+The day before the conference there will be a tutorial seminar on Bayesian inference by Eric-Jan Wagenmakers, a great opportunity to learn or brush up the basics of Bayes! 
+
+**Date?** Thursday 4th of February, 2016.
+
+**Time?** 13:30 - 16:00, including break.
+
+**Where?** Room B152 in the Lux building, Lund University. How to find it: http://www.ht.lu.se/en/lux/kontakt/kartor-och-fardsatt/
+
+**What?** In the first part of the seminar, the principles of Bayesian parameter estimation and hypothesis testing will be illustrated with a concrete example. The second part of the seminar features a brief tour of [JASP](https://jasp-stats.org/), a software program that showcases the practical feasibility of the Bayesian agenda.
+
+**How?** To sign up for the tutorial please use [the Conference registration form above](#conference-registration). Note that the number of spaces available on the tutorial is limited. 
+
+-->
+
+Contact
+--------------
+For more info, contact:
+
+* *Rasmus Bååth*, Lund University Cognitive Science and DataCamp Inc. : rasmus.baath@gmail.com
+* *Ullrika Sahlin*, Lund University Centre of Environmental and Climate Research: ullrika.sahlin@cec.lu.se
+
+If you want to get notified of other events at Lund University that relates to Bayesian methods consider subscribing to the Bayes&#64;Lund mailing list at http://www.lucs.lu.se/bayes/ .
+
+<!--
+
+Acknowledgement
+----------------
+
+The conference was arranged as part of the [advanced study group Quantifying and Communicating Uncertainty](http://www.maths.lth.se/matstat/staff/umberto/bayes-asg.html) at the [Pufendorf institute](http://www.pi.lu.se/). We are deeply grateful to the [Pufendorf Institute](http://www.pi.lu.se/) for financial support of this event!
+
+-->

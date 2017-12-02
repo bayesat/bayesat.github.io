@@ -1,0 +1,656 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\options titlepage
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "palatino" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Bayes@Lund 2016"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a5paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 1.5cm
+\rightmargin 1.5cm
+\bottommargin 1.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset Graphics
+	filename bayes_at_lund_logo_2018.pdf
+	width 12cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+
+\emph on
+A Mini-conference on Bayesian Methods at Lund University
+\begin_inset Newline newline
+\end_inset
+
+5th of February, 2016
+\begin_inset Newline newline
+\end_inset
+
+Room C121, Lux building, Helgonavägen 3, Lund University.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "www.lucs.lu.se/bayes-at-lund-2016/"
+target "http://www.lucs.lu.se/bayes-at-lund-2016/"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Program
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+12.15–12.45 Welcome and invited presentation 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+An Introduction to Bayesian computation and evidence synthesis using STAN
+\emph default
+,
+\emph on
+ 
+\emph default
+Robert Grant, Faculty of Health, Social Care and Education, University of
+ London.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+12.45–13.15 Sandwich lunch and mingle in the foyer (free, but requires registratio
+n)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+13.15–14.15 Keynote presentation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Bayesian Benefits for the Pragmatic Researcher
+\emph default
+,
+\emph on
+ 
+\emph default
+Eric-Jan Wagenmakers, Department of Psychology, University of Amsterdam.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+14.20–15.10 Session 1 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+
+\emph on
+ Bayesian Meta Analysis and Bias Modeling: A Case Study with Relative Clause
+ Processing in Mandarin Chinese,
+\emph default
+ Shravan Vasishth and Lena Jaeger, Departement of Linguistics, University
+ of Potsdam.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+A Bayesian reflection on the meaning of evidence
+\emph default
+, Ullrika Sahlin, Centre for Environmental and Climate Research, Lund University.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+The Bootstrap is a Bayesian procedure, but that doesn’t mean it’s any good
+\emph default
+, Rasmus Bååth, Lund University Cognitive Science.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+15.10–15.30 Coffee and Cake
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+15.30–16.30 Session 2 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Bayesian methods in epidemiological research – why so seldom used?
+\emph default
+ Jonas Björk, Division of occupational and environmental medicine, Lund
+ University.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+
+\emph on
+ Regularized supervised topic models for high-dimensional multi-class regression
+\emph default
+, Måns Magnusson, Department of Computer and Information Science, Linköping
+ University.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Modeling the growth of Swedish Scots pines
+\emph default
+, Henrike Häbel, Department of Mathematical Sciences, Chalmers University
+ of Technology.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+16.30 Concluding remarks and end of conference.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Invited presentation 
+\end_layout
+
+\begin_layout Subsection*
+An Introduction to Bayesian computation and evidence synthesis using STAN
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Robert Grant, Faculty of Health, Social Care and Education, University of
+ London, Robert.Grant@sgul.kingston.ac.uk 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Stan has rapidly become one of the most popular packages for Bayesian modeling
+ in recent years.
+ It is open-source and free, and uses a newer, faster and more stable algorithm
+ than the method in BUGS, JAGS, MLwiN, Stata and SAS.
+ I will introduce the software and highlight where it will have particular
+ advantages for researchers.
+ An application will be given in detail from a recent meta-analysis of the
+ psycho-social benefits of exercise interventions for people with osteoarthritis.
+ The published evidence measures benefit with different scales, dichotomises
+ them in different ways, and reports different summary statistics, all of
+ which are potentially problematic for analysis.
+\end_layout
+
+\begin_layout Section*
+Keynote presentation
+\end_layout
+
+\begin_layout Subsection*
+Bayesian Benefits for the Pragmatic Researcher
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Eric-Jan Wagenmakers, Department of Psychology, University of Amsterdam,
+\begin_inset Newline newline
+\end_inset
+
+ ej.wagenmakers@gmail.com
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The practical advantages of Bayesian inference are demonstrated through
+ two concrete examples.
+ In the first example, we wish to learn whether or not a criminal is intellectua
+lly disabled — this is a problem of parameter estimation.
+ In the second example, we wish to quantify support in favor of a null hypothesi
+s, and track this support as the data accumulate — this is a problem of
+ hypothesis testing.
+ The Bayesian framework unifies both problems within a coherent predictive
+ framework, where parameters and models that predicted the data successfully
+ will receive a boost in plausibility, whereas parameters and models that
+ predicted poorly suffer a decline.
+ Our examples demonstrate how Bayesian analyses can be more informative,
+ more elegant, and more flexible than the orthodox methodology that remains
+ dominant within many fields.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Session 1
+\end_layout
+
+\begin_layout Subsection*
+Bayesian Meta Analysis and Bias Modeling: A Case Study with Relative Clause
+ Processing in Mandarin Chinese
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Shravan Vasishth and Lena Jaeger, Departement of Linguistics, University
+ of Potsdam, vasishth.shravan@gmail.com 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The reading difficulty associated with Chinese relative clauses presents
+ an important empirical problem for psycholinguistic research on sentence
+ comprehension processes, but the results vary from study to study.
+ We carried out a Bayesian random-effects meta-analysis using 15 published
+ studies; this analysis showed that the posterior probability of a subject
+ relative advantage is approximately 0.77.
+ Bias modelling was used to incorporate expert opinion quantitatively in
+ the model.
+ As a proof of concept, we identified biases in five of the fifteen studies,
+ and elicited priors on these using the SHELF framework.
+ Then we fitted a random-effects meta-analysis, including priors on biases.
+ This analysis showed a stronger posterior probability (0.96) of a subject
+ relative advantage compared to the standard random-effects meta-analysis.
+\end_layout
+
+\begin_layout Subsection*
+A Bayesian reflection on the meaning of evidence
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Ullrika Sahlin, Centre for Environmental and Climate Research, Lund University,
+ ullrika.sahlin@cec.lu.se
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Evidence-based decision-making is something many see as ideal.
+ Current models for evidence-based decision-making have set requirements
+ of what qualify as evidence, and may even rate evidence from low to high
+ quality.
+ Still, evidence is a vaguely defined term.
+ I am often puzzled about what is, and what is not, seen as evidence.
+ Is evidence restricted to data? Can an expert judgment be evidence? Can
+ a prediction from a complex simulation model be evidence? To get a little
+ wiser I studied the definition of evidence in examples of Bayesian analysis.
+ I find that a Bayesian interpretation of evidence is broader than put forward
+ in current evidence-based frameworks.
+ Perhaps this broader view can be useful when setting new standards to evaluate
+ quality of evidence in evidence-based decision-making.
+\end_layout
+
+\begin_layout Subsection*
+The Bootstrap is a Bayesian procedure, but that doesn’t mean it’s any good
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Rasmus Bååth, Lund University Cognitive Science, rasmus.baath@gmail.com
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The non-parametric bootstrap is a popular statistical method that produces
+ something that looks very much like draws from a Bayesian posterior distributio
+n.
+ There are papers comparing the bootstrap to Bayesian models and one might
+ wonder which alternative is more appropriate: Bayes or bootstrap? But these
+ are not opposing alternatives, because the non-parametric bootstrap is
+ a Bayesian model.
+ Just because it’s Bayesian does not necessarily mean it is any good and
+ “We used a Bayesian model” is as much a quality assurance as “we used probabili
+ty to calculate something”.
+ However, writing out a statistical method as a Bayesian model can help
+ you understand when that method could work well and how it can be made
+ better.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Session 2
+\end_layout
+
+\begin_layout Subsection*
+Bayesian methods in epidemiological research – why so seldom used?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Jonas Björk, Division of occupational and environmental medicine, Lund Universit
+y, jonas.bjork@med.lu.se
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Epidemiology is a science that seek to understand the variation in disease
+ across population groups.
+ The study designs are usually observational, which hampers the possibilities
+ to draw firm conclusions regarding cause and effect.
+ Subgroups are often investigated in order to identify groups that are especiall
+y susceptible to exposure or treatment effects, which means that multiple
+ inferences are routinely conducted.
+ All this makes epidemiology a suitable arena for both empirical and fully
+ Bayesian methods, but such methods are still quite rarely used within the
+ field.
+ In this talk, I will give examples of Bayesian approaches in epidemiological
+ research, and discuss what can be done in order to make Bayesian methods
+ more widespread among epidemiologists.
+\end_layout
+
+\begin_layout Subsection*
+Regularized supervised topic models for high-dimensional multi-class regression
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Måns Magnusson, Department of Computer and Information Science, Linköping
+ University, mons.magnusson@gmail.com
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+During the latest years supervised topic models has become more and more
+ popular as an approach for modeling textual data to predict a label.
+ We introduce a supervised topic model to handle both many classes as well
+ as many covariates in the stage of prediction.
+ To handle many classes we use the recently proposed Diagonal Orthant probit
+ model for multiclass classification and to handle many topics and covariates
+ we use an efficient horseshoe prior for variable selection/shrinkage.
+\end_layout
+
+\begin_layout Subsection*
+Modeling the growth of Swedish Scots pines
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Henrike Häbel, Department of Mathematical Sciences, Chalmers University
+ of Technology, henrike.habel@chalmers.se
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Predicting tree growth is important in forestry.
+ Forest dynamics - including immigration of trees, their growth and death
+ due to natural causes or interactions with other trees - can be spatio-temporal
+ly modeled by a time-dependent marked point process, where the points correspond
+ to locations of trees and the marks to their sizes.
+ In this case study, a Growth-Interaction-process containing all building
+ blocks mentioned above is used to model the growth of Swedish Scots pines.
+ We concentrate on the open growth (without interactions), and compare a
+ hierarchical Bayesian and a frequentist mixed approach to estimate the
+ parameters of the growth function.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Acknowledgement
+\end_layout
+
+\begin_layout Standard
+The organizing committee of this year’s Bayes@Lund consisted of Rasmus Bååth
+ (Lund University Cognitive Science) and Ullrika Sahlin (Centre of Environmental
+ and Climate Research).
+ The conference was arranged as part of the advanced study group 
+\emph on
+Quantifying and Communicating Uncertainty 
+\emph default
+at the 
+\begin_inset CommandInset href
+LatexCommand href
+name "Pufendorf institute"
+target "http://www.pi.lu.se/"
+
+\end_inset
+
+.
+ We are deeply grateful to the Pufendorf institute for financial support
+ of this event.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename lu_logotype.pdf
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

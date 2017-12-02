@@ -11,6 +11,23 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome! On this page you will find information regarding the Bayes@ series of mini-conferences.
 
+Upcoming Bayes@ conferences
+--------------------------------
+
+### Bayes\@Lund 2017
+
+[<img src="lund2018/bayes_at_lund_logo_2018_1000_px.png" alt="Bayes@Lund 2018" style="width: 400px;"/>](lund2018/bayes_at_lund_2018.html)
+
+*April 2017, Lund University, Sweden. Date to be announced.*
+
+Main Organizers: Ullrika Sahlin and Rasmus Bååth <br>
+Invited speakers: To be announced
+
+[Webpage](lund2018/bayes_at_lund_2018.html)
+
+What is a Bayes@ mini-conference?
+----------------------------------
+
 A Bayes@ mini-conference is a (more or less) local one day event bring together people working with or interested in Bayesian methods. Bayes@ events aims at being accessible to people with little experience of Bayesian methods while still being relevant to experienced practitioners. The focus is on how Bayesian methods are used in research and industry, what the advantages and challenges are with using Bayesian methods, and how Bayesian methods can be used and taught in a better way.
 
 
