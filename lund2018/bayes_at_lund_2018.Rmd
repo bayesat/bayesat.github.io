@@ -14,7 +14,7 @@ output:
 
 You are welcome to participate in the fifth edition of Bayes&#64;Lund! The purpose of this conference is to bring together researchers and professionals working with or interested in Bayesian methods. Bayes&#64;Lund aims at being **accessible** to researchers with little experience of Bayesian methods while still being **relevant** to experienced practitioners. The focus is on how Bayesian methods are used in research and in the industry, what advantages Bayesian methods have over classical alternatives, and how the use and teaching of Bayesian methods can be encouraged.
 
-<img src="photos/invited_speakers_overlapping.jpeg" alt="Invited Speakers" align="right" style="margin: 10px;width: 250px"></img>
+<img src="photos/invited_speakers_overlapping.png" alt="Invited Speakers" align="right" style="margin: 10px;width: 250px"></img>
 
 This conference will feature a number of contributed talks and short tutorials, and invited talks by [Paul-Christian Bürkner](https://paul-buerkner.github.io/) and [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/). For what to expect, check out the programs from [past Bayes&#64;Lund events](https://bayesat.github.io/).
 
@@ -41,7 +41,7 @@ Each accepted speaker is given 20 minutes and, as the audience will be highly he
 
 **Short tutorials** are 10/20/30 minutes long tutorials where you introduce the audience to a  tool, package or methodology you find useful. It doesn't need to be something you've developed, just something you want to show the audience! 
 
-To contribute a presentation or short tutorial for Bayes&#64Lund, please send in the title of your talk/tutorial with an abstract (no more than 100 words) to rasmus.baath@gmail.com. For a short tutorial, also indicate how much time you want (10/20/30 min.). The final date for submissions is **11th of February**. 
+To contribute a presentation or short tutorial for Bayes&#64;Lund, please send in the title of your talk/tutorial with an abstract (no more than 100 words) to rasmus.baath@gmail.com. For a short tutorial, also indicate how much time you want (10/20/30 min.). The final date for submissions is **11th of February**. 
 
 
 Conference registration
