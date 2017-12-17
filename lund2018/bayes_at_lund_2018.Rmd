@@ -16,14 +16,14 @@ You are welcome to participate in the fifth edition of Bayes&#64;Lund! The purpo
 
 <img src="photos/invited_speakers_overlapping.jpeg" alt="Invited Speakers" align="right" style="margin: 10px;width: 250px"></img>
 
-This conference will feature a number of contributed talks and short tutorials, and invited talks by [Paul-Christian Bürkner](https://paul-buerkner.github.io/) and [Ranta Jukka ](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/). For what to expect, check out the programs from [past Bayes&#64;Lund events](https://bayesat.github.io/).
+This conference will feature a number of contributed talks and short tutorials, and invited talks by [Paul-Christian Bürkner](https://paul-buerkner.github.io/) and [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/). For what to expect, check out the programs from [past Bayes&#64;Lund events](https://bayesat.github.io/).
 
 
-#### Invited speakers: Paul-Christian Bürkner and Ranta Jukka 
+#### Invited speakers: Paul-Christian Bürkner and Jukka Ranta 
 
 This year we are happy to announce that the first invited speaker is [Paul-Christian Bürkner](https://paul-buerkner.github.io/), researcher at the University of Münster, Department of Psychology. Paul is an expert in Bayesian statistical modeling, and is the creator of the well-known [BRMS software package](https://www.jstatsoft.org/article/view/v080i01) that makes it easy to do advanced Bayesian modeling.
 
-We are equally happy to announce that the second invited speaker is [Ranta Jukka ](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), professor at the Finnish Food Safety Authority, and docent of biometry from Helsinki University. Jukka's research is focused on Bayesian modeling for quantitative risk assessment in food safety applications. He has also taught several courses in Bayesian statistics at Helsinki University.
+We are equally happy to announce that the second invited speaker is [Jukka Ranta ](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), professor at the Finnish Food Safety Authority, and docent of biometry from Helsinki University. Jukka's research is focused on Bayesian modeling for quantitative risk assessment in food safety applications. He has also taught several courses in Bayesian statistics at Helsinki University.
 
 
 Call for Presentations and Short Tutorials
