@@ -128,11 +128,9 @@ For more info, contact:
 * *Rasmus Bååth*, Lund University Cognitive Science and DataCamp Inc: rasmus.baath@gmail.com
 * *Ullrika Sahlin*, Lund University Centre of Environmental and Climate Research: ullrika.sahlin@cec.lu.se
 
-<!--
-
 Acknowledgement
 ----------------
 
-The conference was arranged as part of the [advanced study group Quantifying and Communicating Uncertainty](http://www.maths.lth.se/matstat/staff/umberto/bayes-asg.html) at the [Pufendorf institute](http://www.pi.lu.se/). We are deeply grateful to the [Pufendorf Institute](http://www.pi.lu.se/) for financial support of this event!
+We are deeply grateful to the [COMPUTE research school](http://cbbp.thep.lu.se/compute/index.php) for financial support of this event.
 
--->
+[![](photos/compute_logo_rgb.png)](http://cbbp.thep.lu.se/compute/index.php)
