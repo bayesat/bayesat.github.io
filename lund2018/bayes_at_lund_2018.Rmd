@@ -21,9 +21,11 @@ This conference will feature a number of contributed talks and short tutorials, 
 
 #### Invited speakers: Paul-Christian Bürkner and Jukka Ranta 
 
-This year we are happy to announce that the first invited speaker is [Paul-Christian Bürkner](https://paul-buerkner.github.io/), researcher at the University of Münster, Department of Psychology. Paul is an expert in Bayesian statistical modeling, and is the creator of the well-known [BRMS software package](https://www.jstatsoft.org/article/view/v080i01) that makes it easy to do advanced Bayesian modeling.
+This year we are happy to announce that the first invited speaker is [Paul-Christian Bürkner](https://paul-buerkner.github.io/), researcher at the University of Münster, Department of Psychology. Paul is an expert in Bayesian statistical modeling, and is the creator of the well-known [BRMS software package](https://www.jstatsoft.org/article/view/v080i01) that makes it easy to do advanced Bayesian modeling. His invited presentation is _Why not to be afraid of priors (too much)_.
 
-We are equally happy to announce that the second invited speaker is [Jukka Ranta ](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), professor at the Finnish Food Safety Authority, and docent of biometry from Helsinki University. Jukka's research is focused on Bayesian modeling for quantitative risk assessment in food safety applications. He has also taught several courses in Bayesian statistics at Helsinki University.
+
+
+We are equally happy to announce that the second invited speaker is [Jukka Ranta ](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), professor at the Finnish Food Safety Authority, and docent of biometry from Helsinki University. Jukka's research is focused on Bayesian modeling for quantitative risk assessment in food safety applications. His invited presentation is _I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment_.
 
 
 Call for Presentations and Short Tutorials
@@ -68,6 +70,18 @@ Program
 -------------
 
 The full program will be announced after the notifications to presenters have been sent out on the __18th of February__. Like last year the conference will run from 09:30 to 16:30 on the day of the event.
+
+### Invited Presentations
+
+**Why not to be afraid of priors (too much)** <br>
+*Paul-Christian Bürkner*
+
+The prior – a key concept in Bayesian statistics which distinquishes it other statistical methods. Historically, the use of priors has caused some resentment against Bayesian statistics and it remains a controversial topic to date. In my talk, I will explain why we should not be too afraid of priors. At the same time, I want to hightlight situations where thinking about priors is mandatory and neccecary for reliable inference.
+
+**I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment** <br>
+*Jukka Ranta*
+
+Evaluation of microbiological and chemical food safety risks typically involves several linked models. These describe different causal processes contributing to the consumer risk and can employ several data sets. When combining evidence, Bayesian modelling is a valuable and flexible method that can be used to assess, e.g., process control options and dietary exposure.
 
 
 <!--
