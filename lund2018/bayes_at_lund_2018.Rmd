@@ -76,7 +76,7 @@ The full program will be announced after the notifications to presenters have be
 **Why not to be afraid of priors (too much)** <br>
 *Paul-Christian Bürkner*
 
-The prior – a key concept in Bayesian statistics which distinquishes it other statistical methods. Historically, the use of priors has caused some resentment against Bayesian statistics and it remains a controversial topic to date. In my talk, I will explain why we should not be too afraid of priors. At the same time, I want to hightlight situations where thinking about priors is mandatory and neccecary for reliable inference.
+The prior – a key concept in Bayesian statistics which distinguishes it other statistical methods. Historically, the use of priors has caused some resentment against Bayesian statistics and it remains a controversial topic to date. In my talk, I will explain why we should not be too afraid of priors. At the same time, I want to highlight situations where thinking about priors is mandatory and necessary for reliable inference.
 
 **I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment** <br>
 *Jukka Ranta*
