@@ -69,8 +69,7 @@ Location
 Program
 -------------
 
-The full program will be announced after the notifications to presenters have been sent out on the __18th of February__. Like last year the conference will run from 09:30 to 16:30 on the day of the event.
-
+<!--
 ### Invited Presentations
 
 **Why not to be afraid of priors (too much)** <br>
@@ -82,41 +81,63 @@ The prior – a key concept in Bayesian statistics which distinguishes it other 
 *Jukka Ranta*
 
 Evaluation of microbiological and chemical food safety risks typically involves several linked models. These describe different causal processes contributing to the consumer risk and can employ several data sets. When combining evidence, Bayesian modelling is a valuable and flexible method that can be used to assess, e.g., process control options and dietary exposure.
-
+-->
 
 <!--
 
 For the full program, including abstracts, see [the program booklet](http://www.lucs.lu.se/wp-content/uploads/2016/01/bayes_at_lund_2016_program.pdf).
+-->
 
 -----------------------------------------------------------------
   &nbsp;      &nbsp;
   
 ------------- --------------------------------------------------
- 11.45        Registration opens (just outside room LUX:C121)
+ 08.45        Registration opens (just outside room LUX:C126)
  
- 12.15-12.45  Welcome and invited presentation </br>
-              - **_An Introduction to Bayesian computation and evidence synthesis using STAN_, [Robert Grant](http://www.robertgrantstats.co.uk/), Faculty of Health, Social Care and Education, University of London.** 
+ 09.10        Welcome
+ 
+ 09.15-10.00  Keynote presentation </br>
+              - **_Why not to be afraid of priors (too much)_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** 
+              
+ 10.00-10.20  - **_Bayesian 3D Priors for Brain Imaging_, [Per Sidén](http://www.ida.liu.se/~persi28/), Lindköping university, Department of Computer and Information Science.**
    
- 12.45-13.15  Sandwich lunch and mingle in the foyer (free, but requires registration)
-              
- 13.15-14.15  Keynote presentation</br>
-              - **_Bayesian Benefits for the Pragmatic Researcher_, [Eric-Jan Wagenmakers](http://www.ejwagenmakers.com/), Department of Psychology, University of Amsterdam.**
-               
- 14.20-15.10  Session 1 </br>
-              - **_Bayesian Meta Analysis and Bias Modeling: A Case Study with Relative Clause Processing in Mandarin Chinese_, [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and Lena Jaeger, Departement of Linguistics, University of Potsdam.** </br> 
-              - **_A Bayesian reflection on the meaning of evidence_, [Ullrika Sahlin](http://evidence.blogg.lu.se/),  Centre for Environmental and Climate Research, Lund University.** </br>
-              - **_The Bootstrap is a Bayesian procedure, but that doesn't mean it's any good_, [Rasmus Bååth](http://www.sumsar.net), Lund University Cognitive Science.**
- 
- 15.10-15.30  Coffee and cake
+ 10.20-10.40  Coffee break
 
- 15.30-16.30  Session 2 </br>
-              - **_Bayesian methods in epidemiological research – why so seldom used?_ [Jonas Björk](http://www.med.lu.se/labmedlund/amm/kontakt/jonas_bjoerk),  Division of occupational and environmental medicine, Lund University.**</br>
-              - **_Regularized supervised topic models for high-dimensional multi-class regression_, [Måns Magnusson](https://twitter.com/MansMeg),  Department of Computer and Information Science, Linköping University.**</br>
-              - **_Modeling the growth of Swedish Scots pines_, [Henrike Häbel](https://www.chalmers.se/en/staff/Pages/henrike-habel.aspx), Department of Mathematical Sciences, Chalmers University of Technology.**
+ 10.40-11.40  Session: Bayesian Regression Models using Stan </br>
+              - **_Introducing the brms R package_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** <br>
+              - **_A hands-on example of Bayesian mixed models with brms_, [Andrey Anikin](http://cogsci.se/index.html), Lund University, Cognitive Science.** <br>
+              - **_Analyzing an experiment on involuntary attention using brms_, [Antonio Schettino](https://asch3tti.netlify.com/), Ghent University, Department of Experimental Clinical and Health Psychology.** <br>
+              - **_Analyzing orientation behaviour in animals using Stan_, [John Kirwan](https://www.biology.lu.se/john-kirwan), Lund University, Department of Biology.** <br>
               
- 16.30          Concluding remarks and end of conference.
+ 12.00-12.45  Sandwich lunch and mingle in the foyer
+              
+ 12.45-13.30  Keynote presentation</br>
+              - **_I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment_, [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), Evira Finnish Food Safety Authority, Risk Assessment Unit.**
+              
+ 13.30-13.50  - **_Inference in ecology and evolution beyond generalised linear mixed models_, [Reinder Radersma](https://www.biology.lu.se/reinder-radersma), Lund university, Department of Biology.**
+
+ 13.50-14.00  Quick break
+
+ 14.00-15.00  Session: Bayesian hypothesis testing </br>
+              - **_Is there something out there? _, [Ullrika Sahlin](https://www.cec.lu.se/ullrika-sahlin), Lund University, Centre for Environmental and Climate Research.** </br> 
+              - **_Bayes Factors: A ‘re-volution’ in psychology_, [Geoff Patching](http://portal.research.lu.se/portal/sv/persons/geoff-patching(0aa2d041-b04f-4ecb-b441-1925350a6338).html), Lund University, Department of Psychology.** </br>
+              - **_Sequential Testing with Information Criteria and Evidence Ratios_, [Ladislas Nalborczyk](http://www.barelysignificant.com/), Univ. Grenoble Alpes & Ghent University.**
+ 
+ 15.00-15.30  Coffee and cake
+
+ 15.30-16.15  Session: Approximate Bayesian inference </br>
+              - **_What to do when exact Bayes is impossible? Some tools for approximate Bayesian inference_ [Umberto Picchini](http://www.maths.lth.se/matstat/staff/umberto/), Lund University, Centre for Mathematical Sciences.**</br>
+              - **_Making the most out of a single datapoint using Approximate Bayesian inference _, [Denis Shepelin](https://twitter.com/MansMeg),  Department of Computer and Information Science, Linköping University.**</br>
+
+ 16.15-16.30  - **_How I introduce Bayes to beginners_, [Rasmus Bååth](https://sumsar.net), King Digital Entertainment.**
+ 
+ 16.30        Closing
+ 
+ 18.00-??.??    Post-conference discussions at a suitable pub 
                    
 ------------- --------------------------------------------------
+
+<!--
 
 Pre-conference tutorial on Bayesian inference
 -------------------------
