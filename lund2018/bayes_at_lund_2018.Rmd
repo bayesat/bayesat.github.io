@@ -160,7 +160,7 @@ Contact
 --------------
 For more info, contact:
 
-* *Rasmus Bååth*, Lund University Cognitive Science and DataCamp Inc: rasmus.baath@gmail.com
+* *Rasmus Bååth*, Lund University Cognitive Science and King Digital Entertainment: rasmus.baath@gmail.com
 * *Ullrika Sahlin*, Lund University Centre of Environmental and Climate Research: ullrika.sahlin@cec.lu.se
 
 Acknowledgement
