@@ -166,8 +166,8 @@ For more info, contact:
 Acknowledgement
 ----------------
 
-We are deeply grateful to the [COMPUTE research school](http://cbbp.thep.lu.se/compute/index.php) for financial support of this event.
+We are deeply grateful to the [COMPUTE research school](http://cbbp.thep.lu.se/compute/index.php) for financial support of this event. We would also like to thank the graduate research school [ClimBEco](https://www.cec.lu.se/education/post-graduate-studies/climbeco-graduate-research-school/about-climbeco) for helping us bring the invited speakers to Lund University.
 
-[![](photos/compute_logo_rgb.png)](http://cbbp.thep.lu.se/compute/index.php)
+[<img src="photos/compute_logo_rgb.png" style="float:left"> ](http://cbbp.thep.lu.se/compute/index.php)
 
-We would also like to thank the graduate research school [ClimBEco](https://www.cec.lu.se/education/post-graduate-studies/climbeco-graduate-research-school/about-climbeco) for helping us bring the invited speakers to Lund University.
+[![](photos/climbeco.png)](https://www.cec.lu.se/education/post-graduate-studies/climbeco-graduate-research-school/about-climbeco)
