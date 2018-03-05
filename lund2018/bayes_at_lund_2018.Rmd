@@ -27,6 +27,7 @@ This year we are happy to announce that the first invited speaker is [Paul-Chris
 
 We are equally happy to announce that the second invited speaker is [Jukka Ranta ](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), professor at the Finnish Food Safety Authority, and docent of biometry from Helsinki University. Jukka's research is focused on Bayesian modeling for quantitative risk assessment in food safety applications. His invited presentation is _I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment_.
 
+<!--
 
 Call for Presentations and Short Tutorials
 ------------------------
@@ -45,6 +46,15 @@ Each accepted speaker is given 20 minutes and, as the audience will be highly he
 
 To contribute a presentation or short tutorial for Bayes&#64;Lund, please send in the title of your talk/tutorial with an abstract (no more than 100 words) to rasmus.baath@gmail.com. For a short tutorial, also indicate how much time you want (10/20/30 min.). The final date for submissions is **11th of February**. 
 
+-->
+
+Important Dates
+---------------
+* <s>Final date for presentations submission: __11th of February__</s>
+* <s>Notifications to presenters: __18th of February__</s>
+* Final date for registration: __1st of April__
+* The conference: __12th of April__
+
 
 Conference registration
 -----------------------
@@ -53,12 +63,6 @@ If you want to join us for Bayes&#64;Lund, please register your attendance using
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeObI_s4XhL0epYH9WZECNpdj_ueKZOpi7I0J9mgN7kzxSMwA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-Important Dates
----------------
-* Final date for presentations submission: __11th of February__
-* Notifications to presenters: __18th of February__
-* Final date for registration: __1st of April__
-* The conference: __12th of April__
 
 Location
 ---------------
