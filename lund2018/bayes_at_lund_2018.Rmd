@@ -73,24 +73,14 @@ Location
 Program
 -------------
 
-<!--
-### Invited Presentations
 
-**Why not to be afraid of priors (too much)** <br>
-*Paul-Christian Bürkner*
+For the full program, including abstracts, see [the program booklet](https://rawgit.com/bayesat/bayesat.github.io/master/lund2018/bayes_at_lund_2018_program.pdf):
 
-The prior – a key concept in Bayesian statistics which distinguishes it other statistical methods. Historically, the use of priors has caused some resentment against Bayesian statistics and it remains a controversial topic to date. In my talk, I will explain why we should not be too afraid of priors. At the same time, I want to highlight situations where thinking about priors is mandatory and necessary for reliable inference.
+<center> [ <img src="photos/program_thumbnail.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222); max-width: 200px" >](https://rawgit.com/bayesat/bayesat.github.io/master/lund2018/bayes_at_lund_2018_program.pdf) <center>
 
-**I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment** <br>
-*Jukka Ranta*
 
-Evaluation of microbiological and chemical food safety risks typically involves several linked models. These describe different causal processes contributing to the consumer risk and can employ several data sets. When combining evidence, Bayesian modelling is a valuable and flexible method that can be used to assess, e.g., process control options and dietary exposure.
--->
-
-<!--
-
-For the full program, including abstracts, see [the program booklet](http://www.lucs.lu.se/wp-content/uploads/2016/01/bayes_at_lund_2016_program.pdf).
--->
+Schedule
+-------------
 
 -----------------------------------------------------------------
   &nbsp;      &nbsp;
