@@ -5,7 +5,6 @@
 \save_transient_properties true
 \origin unavailable
 \textclass article
-\options titlepage
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -103,30 +102,38 @@ A Mini-conference on Bayesian Methods at Lund University
 \begin_inset Newline newline
 \end_inset
 
-5th of February, 2016
+12th of April, 2018
 \begin_inset Newline newline
 \end_inset
 
-Room C121, Lux building, Helgonavägen 3, Lund University.
+ Lux building, Helgonavägen 3, Lund University.
 \begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\emph on
+bayes abstracts
+\end_layout
+
 \end_inset
 
 
 \begin_inset CommandInset href
 LatexCommand href
-name "www.lucs.lu.se/bayes-at-lund-2016/"
-target "http://www.lucs.lu.se/bayes-at-lund-2016/"
+name "bayesat.github.io/lund2018/bayes_at_lund_2018.html"
+target "https://bayesat.github.io/lund2018/bayes_at_lund_2018.html"
 
 \end_inset
 
  
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
 \end_layout
 
 \begin_layout Section*
@@ -135,7 +142,7 @@ Program
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-12.15–12.45 Welcome and invited presentation 
+09.10–10.00 Welcome and keynote presentation
 \end_layout
 
 \begin_layout Labeling
@@ -149,25 +156,14 @@ Program
 
  
 \emph on
-An Introduction to Bayesian computation and evidence synthesis using STAN
+Why not to be afraid of priors (too much)
 \emph default
-,
-\emph on
- 
-\emph default
-Robert Grant, Faculty of Health, Social Care and Education, University of
- London.
+, Paul-Christian Bürkner, University of Münster, Department of Psychology.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-12.45–13.15 Sandwich lunch and mingle in the foyer (free, but requires registratio
-n)
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-13.15–14.15 Keynote presentation
+10.00–10.20
 \end_layout
 
 \begin_layout Labeling
@@ -181,36 +177,20 @@ n)
 
  
 \emph on
-Bayesian Benefits for the Pragmatic Researcher
+Bayesian 3D Priors for Brain Imaging
 \emph default
-,
-\emph on
- 
-\emph default
-Eric-Jan Wagenmakers, Department of Psychology, University of Amsterdam.
+, Per Sidén, Lindköping university, Department of Computer and Information
+ Science.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-14.20–15.10 Session 1 
+10.20–10.40 Coffee break
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset space ~
-\end_inset
-
- 
-\begin_inset Formula $\triangleright$
-\end_inset
-
-
-\emph on
- Bayesian Meta Analysis and Bias Modeling: A Case Study with Relative Clause
- Processing in Mandarin Chinese,
-\emph default
- Shravan Vasishth and Lena Jaeger, Departement of Linguistics, University
- of Potsdam.
+10.40–12.00 Session: Bayesian Regression Models using Stan 
 \end_layout
 
 \begin_layout Labeling
@@ -224,9 +204,10 @@ Eric-Jan Wagenmakers, Department of Psychology, University of Amsterdam.
 
  
 \emph on
-A Bayesian reflection on the meaning of evidence
+Introducing the brms R package,
 \emph default
-, Ullrika Sahlin, Centre for Environmental and Climate Research, Lund University.
+ Paul-Christian Bürkner, University of Münster, Department of Psychology.
+ 
 \end_layout
 
 \begin_layout Labeling
@@ -240,19 +221,10 @@ A Bayesian reflection on the meaning of evidence
 
  
 \emph on
-The Bootstrap is a Bayesian procedure, but that doesn’t mean it’s any good
+A hands-on example of Bayesian mixed models with brms
 \emph default
-, Rasmus Bååth, Lund University Cognitive Science.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-15.10–15.30 Coffee and Cake
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-15.30–16.30 Session 2 
+, Andrey Anikin, Lund University, Cognitive Science.
+ 
 \end_layout
 
 \begin_layout Labeling
@@ -266,27 +238,187 @@ The Bootstrap is a Bayesian procedure, but that doesn’t mean it’s any good
 
  
 \emph on
-Bayesian methods in epidemiological research – why so seldom used?
+Analyzing an experiment on involuntary attention using brms
 \emph default
- Jonas Björk, Division of occupational and environmental medicine, Lund
+, Antonio Schettino, Ghent University, Department of Experimental Clinical
+ and Health Psychology.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Analyzing orientation behavior in animals using Stan
+\emph default
+, John Kirwan, Lund University, Department of Biology.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+12.00–12.45 Sandwich lunch and mingle in the foyer
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+12.45–13.30 Keynote presentation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+I know what you ate last summer! – the virtue of Bayesian analysis in food
+ risk assessment
+\emph default
+, Jukka Ranta, Evira Finnish Food Safety Authority, Risk Assessment Unit.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+13.30–13.50
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Inference in ecology and evolution beyond generalized linear mixed models
+\emph default
+, Reinder Radersma, Lund university, Department of Biology.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+13.50–14.00 Quick break
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+14.00–15.00 Session: Bayesian hypothesis testing 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Is there something out there? 
+\emph default
+, Ullrika Sahlin, Lund University, Centre for Environmental and Climate
+ Research.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Bayes Factors: A ‘re-volution’ in psychology
+\emph default
+, Geoff Patching, Lund University, Department of Psychology.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Sequential Testing with Information Criteria and Evidence Ratios
+\emph default
+, Ladislas Nalborczyk, Univ.
+ Grenoble Alpes & Ghent University.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+15.00–15.30 Coffee and cake
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+15.30–16.15 Session: Approximate Bayesian inference 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+What to do when exact Bayes is impossible? Some tools for approximate Bayesian
+ inference,
+\emph default
+ Umberto Picchini, Lund University, Centre for Mathematical Sciences.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Making the most out of a single datapoint using Approximate Bayesian inference
+\emph default
+, Denis Shepelin, Department of Computer and Information Science, Linköping
  University.
 \end_layout
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-\begin_inset space ~
-\end_inset
-
- 
-\begin_inset Formula $\triangleright$
-\end_inset
-
-
-\emph on
- Regularized supervised topic models for high-dimensional multi-class regression
-\emph default
-, Måns Magnusson, Department of Computer and Information Science, Linköping
- University.
+16.15–16.30 
 \end_layout
 
 \begin_layout Labeling
@@ -300,15 +432,9 @@ Bayesian methods in epidemiological research – why so seldom used?
 
  
 \emph on
-Modeling the growth of Swedish Scots pines
+How I introduce Bayes to beginners
 \emph default
-, Henrike Häbel, Department of Mathematical Sciences, Chalmers University
- of Technology.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-16.30 Concluding remarks and end of conference.
+, Rasmus Bååth, King Digital Entertainment, Malmö.
 \end_layout
 
 \begin_layout Standard
@@ -319,18 +445,22 @@ Modeling the growth of Swedish Scots pines
 \end_layout
 
 \begin_layout Section*
-Invited presentation 
+Keynote presentations 
 \end_layout
 
 \begin_layout Subsection*
-An Introduction to Bayesian computation and evidence synthesis using STAN
+Why not to be afraid of priors (too much)
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Robert Grant, Faculty of Health, Social Care and Education, University of
- London, Robert.Grant@sgul.kingston.ac.uk 
+Paul-Christian Bürkner, University of Münster, Department of Psychology,
+ 
+\begin_inset Newline newline
+\end_inset
+
+paul.buerkner@gmail.com 
 \emph default
 
 \begin_inset Newline newline
@@ -340,35 +470,59 @@ Robert Grant, Faculty of Health, Social Care and Education, University of
 \begin_inset Newline newline
 \end_inset
 
-Stan has rapidly become one of the most popular packages for Bayesian modeling
- in recent years.
- It is open-source and free, and uses a newer, faster and more stable algorithm
- than the method in BUGS, JAGS, MLwiN, Stata and SAS.
- I will introduce the software and highlight where it will have particular
- advantages for researchers.
- An application will be given in detail from a recent meta-analysis of the
- psycho-social benefits of exercise interventions for people with osteoarthritis.
- The published evidence measures benefit with different scales, dichotomises
- them in different ways, and reports different summary statistics, all of
- which are potentially problematic for analysis.
+The prior is a key concept in Bayesian statistics that distinguishes it
+ from most other statistical methods.
+ Historically, it has caused many resentments against Bayesian statistics
+ in general and remains a controversial topic to date.
+ In my talk, I want to explain why we should usually not be too afraid of
+ priors.
+ At the same time, I want to highlight situations where thinking about priors
+ is mandatory and incredibly helpful for reliable inference.
+\end_layout
+
+\begin_layout Subsection*
+I know what you ate last summer! – the virtue of Bayesian analysis in food
+ risk assessment
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Jukka Ranta, Evira Finnish Food Safety Authority, Risk Assessment Unit,
+\begin_inset Newline newline
+\end_inset
+
+Jukka.Ranta@evira.fi 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Evaluation of microbiological and chemical food safety risks typically involves
+ several linked models.
+ These describe different causal processes contributing to the consumer
+ risk and can employ several data sets.
+ When combining evidence, Bayesian modeling is a valuable and flexible method
+ that can be used to assess, e.g., process control options and dietary exposure.
 \end_layout
 
 \begin_layout Section*
-Keynote presentation
+Contributed presentations
 \end_layout
 
 \begin_layout Subsection*
-Bayesian Benefits for the Pragmatic Researcher
+Bayesian 3D Priors for Brain Imaging
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Eric-Jan Wagenmakers, Department of Psychology, University of Amsterdam,
-\begin_inset Newline newline
-\end_inset
-
- ej.wagenmakers@gmail.com
+Per Sidén, Lindköping university, Department of Computer and Information
+ Science, per.siden@liu.se 
 \emph default
 
 \begin_inset Newline newline
@@ -378,43 +532,31 @@ Eric-Jan Wagenmakers, Department of Psychology, University of Amsterdam,
 \begin_inset Newline newline
 \end_inset
 
-The practical advantages of Bayesian inference are demonstrated through
- two concrete examples.
- In the first example, we wish to learn whether or not a criminal is intellectua
-lly disabled — this is a problem of parameter estimation.
- In the second example, we wish to quantify support in favor of a null hypothesi
-s, and track this support as the data accumulate — this is a problem of
- hypothesis testing.
- The Bayesian framework unifies both problems within a coherent predictive
- framework, where parameters and models that predicted the data successfully
- will receive a boost in plausibility, whereas parameters and models that
- predicted poorly suffer a decline.
- Our examples demonstrate how Bayesian analyses can be more informative,
- more elegant, and more flexible than the orthodox methodology that remains
- dominant within many fields.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Session 1
+This talk discusses the use of Bayesian priors for modeling the spatial
+ distribution of brain activity from functional magnetic resonance imaging
+ (fMRI).
+ The data are naturally 4D, consisting of 3D brain images measured over
+ time, each having hundreds of thousands of data points.
+ The Bayesian approach is attractive because (1) it gives posterior probabilitie
+s of activation in different brain regions; (2) the amount of spatial dependence
+ can be inferred from the data and (3) the large scale computational problem
+ can be efficiently handled using sparse Gaussian Markov random fields (GMRF)
+ priors.
+ 
 \end_layout
 
 \begin_layout Subsection*
-Bayesian Meta Analysis and Bias Modeling: A Case Study with Relative Clause
- Processing in Mandarin Chinese
+Introducing the brms R package
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Shravan Vasishth and Lena Jaeger, Departement of Linguistics, University
- of Potsdam, vasishth.shravan@gmail.com 
+Paul-Christian Bürkner, University of Münster, Department of Psychology,
+\begin_inset Newline newline
+\end_inset
+
+paul.buerkner@gmail.com 
 \emph default
 
 \begin_inset Newline newline
@@ -424,30 +566,29 @@ Shravan Vasishth and Lena Jaeger, Departement of Linguistics, University
 \begin_inset Newline newline
 \end_inset
 
-The reading difficulty associated with Chinese relative clauses presents
- an important empirical problem for psycholinguistic research on sentence
- comprehension processes, but the results vary from study to study.
- We carried out a Bayesian random-effects meta-analysis using 15 published
- studies; this analysis showed that the posterior probability of a subject
- relative advantage is approximately 0.77.
- Bias modelling was used to incorporate expert opinion quantitatively in
- the model.
- As a proof of concept, we identified biases in five of the fifteen studies,
- and elicited priors on these using the SHELF framework.
- Then we fitted a random-effects meta-analysis, including priors on biases.
- This analysis showed a stronger posterior probability (0.96) of a subject
- relative advantage compared to the standard random-effects meta-analysis.
+This talk with introduce the the brms package which implements Bayesian
+ multilevel models in R using the probabilistic programming language Stan.
+ A wide range of distributions and link functions are supported, allowing
+ users to fit linear, robust linear, binomial, Poisson, survival, response
+ times, ordinal, quantile, zero-inflated, hurdle, and even non-linear models
+ all in a multilevel context.
+ In addition, all parameters of the response distribution can be predicted
+ in order to perform distributional regression.
+ Prior specifications are flexible and explicitly encourage users to apply
+ prior distributions that actually reflect their beliefs.
+ In addition, model fit can easily be assessed and compared with posterior
+ predictive checks and leave-one-out cross-validation.
 \end_layout
 
 \begin_layout Subsection*
-A Bayesian reflection on the meaning of evidence
+A hands-on example of Bayesian mixed models with brms
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Ullrika Sahlin, Centre for Environmental and Climate Research, Lund University,
- ullrika.sahlin@cec.lu.se
+Andrey Anikin, Lund University, Cognitive Science, andrey.anikin@lucs.lu.se
+ 
 \emph default
 
 \begin_inset Newline newline
@@ -457,29 +598,27 @@ Ullrika Sahlin, Centre for Environmental and Climate Research, Lund University,
 \begin_inset Newline newline
 \end_inset
 
-Evidence-based decision-making is something many see as ideal.
- Current models for evidence-based decision-making have set requirements
- of what qualify as evidence, and may even rate evidence from low to high
- quality.
- Still, evidence is a vaguely defined term.
- I am often puzzled about what is, and what is not, seen as evidence.
- Is evidence restricted to data? Can an expert judgment be evidence? Can
- a prediction from a complex simulation model be evidence? To get a little
- wiser I studied the definition of evidence in examples of Bayesian analysis.
- I find that a Bayesian interpretation of evidence is broader than put forward
- in current evidence-based frameworks.
- Perhaps this broader view can be useful when setting new standards to evaluate
- quality of evidence in evidence-based decision-making.
+While the advantages of a Bayesian approach are increasingly acknowledged,
+ many are discouraged by the steep learning curve and the large amount of
+ manual coding.
+ In this talk I demonstrate how mixed models, a staple of modern data analysis,
+ can be easily fit and explored with just a few lines of code using brms
+ package.
+ Starting with a dataset from a real experiment, in which listeners judged
+ the authenticity of emotional vocalizations (a binary outcome), I will
+ go through model specification, diagnostics, plotting, and reporting the
+ results.
 \end_layout
 
 \begin_layout Subsection*
-The Bootstrap is a Bayesian procedure, but that doesn’t mean it’s any good
+Analyzing an experiment on involuntary attention using brms
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Rasmus Bååth, Lund University Cognitive Science, rasmus.baath@gmail.com
+Antonio Schettino, Ghent University, Department of Experimental Clinical
+ and Health Psychology, antonio.schettino@ugent.be 
 \emph default
 
 \begin_inset Newline newline
@@ -489,41 +628,29 @@ Rasmus Bååth, Lund University Cognitive Science, rasmus.baath@gmail.com
 \begin_inset Newline newline
 \end_inset
 
-The non-parametric bootstrap is a popular statistical method that produces
- something that looks very much like draws from a Bayesian posterior distributio
-n.
- There are papers comparing the bootstrap to Bayesian models and one might
- wonder which alternative is more appropriate: Bayes or bootstrap? But these
- are not opposing alternatives, because the non-parametric bootstrap is
- a Bayesian model.
- Just because it’s Bayesian does not necessarily mean it is any good and
- “We used a Bayesian model” is as much a quality assurance as “we used probabili
-ty to calculate something”.
- However, writing out a statistical method as a Bayesian model can help
- you understand when that method could work well and how it can be made
- better.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Session 2
+It is difficult to suppress the urge to look at your smartphone if there
+ is a sudden flash on the screen.
+ But would you still look at the phone if the flash always signals wrong
+ information? We addressed this question using a visual temporal order judgment
+ task, in which participants had to judge which of two stimuli appeared
+ first.
+ Some trials were preceded by a counterproductive exogenous cue, i.e., always
+ signaling where the second target would appear.
+ Bayesian parameter estimation and model comparison (using the brms package
+ in R) revealed that the cue, despite being counterproductive, consistently
+ attracted attention.
+ 
 \end_layout
 
 \begin_layout Subsection*
-Bayesian methods in epidemiological research – why so seldom used?
+Analyzing orientation behavior in animals using Stan
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Jonas Björk, Division of occupational and environmental medicine, Lund Universit
-y, jonas.bjork@med.lu.se
+John Kirwan, Lund University, Department of Biology, john.kirwan@biol.lu.se
+ 
 \emph default
 
 \begin_inset Newline newline
@@ -533,30 +660,32 @@ y, jonas.bjork@med.lu.se
 \begin_inset Newline newline
 \end_inset
 
-Epidemiology is a science that seek to understand the variation in disease
- across population groups.
- The study designs are usually observational, which hampers the possibilities
- to draw firm conclusions regarding cause and effect.
- Subgroups are often investigated in order to identify groups that are especiall
-y susceptible to exposure or treatment effects, which means that multiple
- inferences are routinely conducted.
- All this makes epidemiology a suitable arena for both empirical and fully
- Bayesian methods, but such methods are still quite rarely used within the
- field.
- In this talk, I will give examples of Bayesian approaches in epidemiological
- research, and discuss what can be done in order to make Bayesian methods
- more widespread among epidemiologists.
+A recurring challenge in behavioral studies of animal senses is the analysis
+ of angular data, which frequently occurs from tracking orientation or direction
+ of movement.
+ Analysis and visualization of these data are fraught with challenges, as
+ they can be easy to misinterpret.
+ Within the fields of animal sensory ecology and navigation, angular data
+ has typically been investigated by comparing treatments using a limited
+ set of significance tests.
+ These approaches are inflexible and neglect pooling and measures of effect
+ size and uncertainty.
+ To address this, I have sought to analyse angular behavioral data using
+ models in the Stan language.
 \end_layout
 
 \begin_layout Subsection*
-Regularized supervised topic models for high-dimensional multi-class regression
+Inference in ecology and evolution beyond generalized linear mixed models
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Måns Magnusson, Department of Computer and Information Science, Linköping
- University, mons.magnusson@gmail.com
+Reinder Radersma, Lund university, Department of Biology, 
+\begin_inset Newline newline
+\end_inset
+
+reinder.radersma@biol.lu.se
 \emph default
 
 \begin_inset Newline newline
@@ -566,24 +695,28 @@ Måns Magnusson, Department of Computer and Information Science, Linköping
 \begin_inset Newline newline
 \end_inset
 
-During the latest years supervised topic models has become more and more
- popular as an approach for modeling textual data to predict a label.
- We introduce a supervised topic model to handle both many classes as well
- as many covariates in the stage of prediction.
- To handle many classes we use the recently proposed Diagonal Orthant probit
- model for multiclass classification and to handle many topics and covariates
- we use an efficient horseshoe prior for variable selection/shrinkage.
+Generalized linear mixed models (GLMMs) are commonly used in many research
+ fields, including ecology and evolution.
+ GLMMs and the software for analyzing them offer great flexibility in for
+ instance the number of variables and error structure, but obviously assume
+ linearity.
+ The tremendous flexibility of Stan to customize the structure of models
+ offers a great, but underused potential for investigating more complex
+ correlational/causality patterns.
+ Here I will showcase 3 studies on humans, birds and waterfleas, in which
+ I have used Stan to customize model structures to answer questions in ecology
+ and evolution for which GLMMs have limited potential.
 \end_layout
 
 \begin_layout Subsection*
-Modeling the growth of Swedish Scots pines
+Is there something out there? 
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Henrike Häbel, Department of Mathematical Sciences, Chalmers University
- of Technology, henrike.habel@chalmers.se
+Ullrika Sahlin, Lund University, Centre for Environmental and Climate Research,
+ ullrika.sahlin@gmail.com 
 \emph default
 
 \begin_inset Newline newline
@@ -593,16 +726,170 @@ Henrike Häbel, Department of Mathematical Sciences, Chalmers University
 \begin_inset Newline newline
 \end_inset
 
-Predicting tree growth is important in forestry.
- Forest dynamics - including immigration of trees, their growth and death
- due to natural causes or interactions with other trees - can be spatio-temporal
-ly modeled by a time-dependent marked point process, where the points correspond
- to locations of trees and the marks to their sizes.
- In this case study, a Growth-Interaction-process containing all building
- blocks mentioned above is used to model the growth of Swedish Scots pines.
- We concentrate on the open growth (without interactions), and compare a
- hierarchical Bayesian and a frequentist mixed approach to estimate the
- parameters of the growth function.
+This is a demonstration of how Bayesian methods can be used for risk assessment
+ under sparse information and incorporating judgement from multiple experts.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Bayes Factors: A ‘re-volution’ in psychology
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Geoff Patching, Lund University, Department of Psychology,
+\begin_inset Newline newline
+\end_inset
+
+geoffrey.patching@psy.lu.se 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+In psychology, Bayes Factors (BFs) are being increasingly reported as a
+ complement to p-values.
+ However, just as the mindless computation of p-values encourages a simple
+ dichotomization of study results, the mindless computation of BFs with
+ an overemphasis on hypothesis testing detracts from more useful approaches
+ to interpreting study results, such as parameter estimation.
+ BFs may serve to facilitate the transition from frequentist to Bayesian
+ data analysis, but let us not repeat mistakes of the past.
+ In this short talk, I shall argue that Bayesian parameter estimation is
+ preferred with an example from a recent Master thesis.
+\end_layout
+
+\begin_layout Subsection*
+Sequential Testing with Information Criteria and Evidence Ratios
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Ladislas Nalborczyk, Univ.
+ Grenoble Alpes & Ghent University,
+\begin_inset Newline newline
+\end_inset
+
+ladislas.nalborczyk@univ-grenoble-alpes.fr 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Sequential testing refers to the process of collecting data until a predefined
+ level of evidence is reached.
+ Recently, Schönbrodt, Wagenmakers, Zehetleitner, & Perugini (2017) and
+ Schönbrodt & Wagenmakers (2017) have introduced the Sequential Bayes Factors
+ (SBF) procedure, in order to avoid the pitfalls associated with sequential
+ testing in the NHST framework.
+ The R package ESTER (Nalborczyk, 2017) proposes an alternative approach
+ that uses evidence ratios based on either Akaike weights computed from
+ AIC (e.g., Burnham & Anderson, 2004) or pseudo-BMA weights computed from
+ the WAIC or the LOO-CV of Bayesian models (Yao, Simpson, & Gelman, 2017).
+\end_layout
+
+\begin_layout Subsection*
+What to do when exact Bayes is impossible? Some tools for approximate Bayesian
+ inference
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Umberto Picchini, Lund University, Centre for Mathematical Sciences,
+\begin_inset Newline newline
+\end_inset
+
+umberto.picchini@gmail.com 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+So you have postulated a nice model and now you want to perform Bayesian
+ inference for the model parameters.
+ Great.
+ The problem is the model has a non-standard likelihood function..
+ In other words your model is sufficiently complex that you can't write
+ the likelihood function and therefore cannot perform full-fledged Bayesian
+ analysis.
+ This situation is actually the norm when working with realistic models.
+ However there are strategies to deal with so-called "intractable likelihoods"
+ using "likelihood-free inference".
+ The most important examples of these methods are "approximate Bayesian
+ computation" (ABC) and "synthetic likelihoods".
+ I will give an introduction to both methods.
+\end_layout
+
+\begin_layout Subsection*
+Making the most out of a single datapoint using Approximate Bayesian inference
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Denis Shepelin, Department of Computer and Information Science, Linköping
+ University, denshe@biosustain.dtu.dk 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Bayesian inference is based on evaluation of posterior distribution via
+ likelihood function.
+ However even for the simplest models sometimes there is no way for defining
+ likelihood function in analytical way.
+ In such situations, we still can perform Bayesian reasoning via Approximate
+ Bayesian Computation techniques.
+ In my talk, I want to provide an overview on typical ways to perform ABC
+ and corresponding software packages.
+ To demonstrate flexibility of this method I would like to present my use
+ case on performing ABC on very complex simulator based model with 1 data
+ point while still achieving useful results.
+ 
+\end_layout
+
+\begin_layout Subsection*
+How I introduce Bayes to beginners
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Rasmus Bååth, King Digital Entertainment, rasmus.baath@gmail.com 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Bayesian statistics is a rich a deep topic, but you have to start somewhere.
+ And there are many places to start, and many ways educators introduce Bayesian
+ statistics: From probability as personal belief to just focussing on Markov
+ chain Monte Carlo.
+ In this short talk I'll give a demonstration of what I think is one good
+ way of introducing Bayes to beginners.
 \end_layout
 
 \begin_layout Standard
@@ -618,23 +905,12 @@ Acknowledgement
 
 \begin_layout Standard
 The organizing committee of this year’s Bayes@Lund consisted of Rasmus Bååth
- (Lund University Cognitive Science) and Ullrika Sahlin (Centre of Environmental
- and Climate Research).
- The conference was arranged as part of the advanced study group 
-\emph on
-Quantifying and Communicating Uncertainty 
-\emph default
-at the 
-\begin_inset CommandInset href
-LatexCommand href
-name "Pufendorf institute"
-target "http://www.pi.lu.se/"
-
-\end_inset
-
-.
- We are deeply grateful to the Pufendorf institute for financial support
+ (King Digital Entertainment, Malmö) and Ullrika Sahlin (Centre of Environmental
+ and Climate Research, Lund University).
+ We are deeply grateful to the COMPUTE research school for financial support
  of this event.
+ We would also like to thank the graduate research school ClimBEco for helping
+ us bring the invited speakers to Lund University.
 \begin_inset VSpace vfill
 \end_inset
 
