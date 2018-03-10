@@ -1,0 +1,326 @@
+%% LyX 2.2.3 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[english]{article}
+\usepackage{mathpazo}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[a5paper]{geometry}
+\geometry{verbose,tmargin=1.5cm,bmargin=1.5cm,lmargin=1.5cm,rmargin=1.5cm}
+\pagestyle{empty}
+\usepackage{babel}
+\usepackage{graphicx}
+\usepackage[unicode=true,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=false,pdfborder={0 0 0},pdfborderstyle={},backref=false,colorlinks=false]
+ {hyperref}
+\hypersetup{pdftitle={Bayes@Lund 2016}}
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+\newenvironment{lyxlist}[1]
+{\begin{list}{}
+{\settowidth{\labelwidth}{#1}
+ \setlength{\leftmargin}{\labelwidth}
+ \addtolength{\leftmargin}{\labelsep}
+ \renewcommand{\makelabel}[1]{##1\hfil}}}
+{\end{list}}
+
+\@ifundefined{date}{}{\date{}}
+\makeatother
+
+\begin{document}
+
+\title{\includegraphics[width=12cm]{bayes_at_lund_logo_2018}}
+
+\author{\emph{A Mini-conference on Bayesian Methods at Lund University}\\
+\emph{12th of April, 2018}\\
+\emph{ Lux building, Helgonavägen 3, Lund University.}\\
+\texttt{\emph{\href{https://bayesat.github.io/lund2018/bayes_at_lund_2018.html}{bayesat.github.io/lund2018/bayes\_{}at\_{}lund\_{}2018.html} }}}
+\maketitle
+
+\section*{Program}
+\begin{lyxlist}{00.00.0000}
+\item [{09.10\textendash 10.00}] Welcome and keynote presentation
+\item [{~}] $\triangleright$ \emph{Why not to be afraid of priors (too
+much)}, Paul-Christian Bürkner, University of Münster, Department
+of Psychology.
+\item [{10.00\textendash 10.20}]~
+\item [{~}] $\triangleright$ \emph{Bayesian 3D Priors for Brain Imaging},
+Per Sidén, Lindköping university, Department of Computer and Information
+Science.
+\item [{10.20\textendash 10.40}] Coffee break
+\item [{10.40\textendash 12.00}] Session: Bayesian Regression Models using
+Stan 
+\item [{~}] $\triangleright$ \emph{Introducing the brms R package,} Paul-Christian
+Bürkner, University of Münster, Department of Psychology. 
+\item [{~}] $\triangleright$ \emph{A hands-on example of Bayesian mixed
+models with brms}, Andrey Anikin, Lund University, Cognitive Science. 
+\item [{~}] $\triangleright$ \emph{Analyzing an experiment on involuntary
+attention using brms}, Antonio Schettino, Ghent University, Department
+of Experimental Clinical and Health Psychology. 
+\item [{~}] $\triangleright$ \emph{Analyzing orientation behavior in
+animals using Stan}, John Kirwan, Lund University, Department of Biology. 
+\item [{12.00\textendash 12.45}] Sandwich lunch and mingle in the foyer
+\item [{12.45\textendash 13.30}] Keynote presentation
+\item [{~}] $\triangleright$ \emph{I know what you ate last summer! \textendash{}
+the virtue of Bayesian analysis in food risk assessment}, Jukka Ranta,
+Evira Finnish Food Safety Authority, Risk Assessment Unit.
+\item [{13.30\textendash 13.50}]~
+\item [{~}] $\triangleright$ \emph{Inference in ecology and evolution
+beyond generalized linear mixed models}, Reinder Radersma, Lund university,
+Department of Biology.
+\item [{13.50\textendash 14.00}] Quick break
+\item [{14.00\textendash 15.00}] Session: Bayesian hypothesis testing 
+\item [{~}] $\triangleright$ \emph{Is there something out there? }, Ullrika
+Sahlin, Lund University, Centre for Environmental and Climate Research. 
+\item [{~}] $\triangleright$ \emph{Bayes Factors: A \textquoteleft re-volution\textquoteright{}
+in psychology}, Geoff Patching, Lund University, Department of Psychology. 
+\item [{~}] $\triangleright$ \emph{Sequential Testing with Information
+Criteria and Evidence Ratios}, Ladislas Nalborczyk, Univ. Grenoble
+Alpes \& Ghent University.
+\item [{15.00\textendash 15.30}] Coffee and cake
+\item [{15.30\textendash 16.15}] Session: Approximate Bayesian inference 
+\item [{~}] $\triangleright$ \emph{What to do when exact Bayes is impossible?
+Some tools for approximate Bayesian inference,} Umberto Picchini,
+Lund University, Centre for Mathematical Sciences.
+\item [{~}] $\triangleright$ \emph{Making the most out of a single datapoint
+using Approximate Bayesian inference}, Denis Shepelin, Department
+of Computer and Information Science, Linköping University.
+\item [{16.15\textendash 16.30}]~
+\item [{~}] $\triangleright$ \emph{How I introduce Bayes to beginners},
+Rasmus Bååth, King Digital Entertainment, Malmö.
+\end{lyxlist}
+\newpage{}
+
+\section*{Keynote presentations }
+
+\subsection*{Why not to be afraid of priors (too much)}
+
+\emph{Paul-Christian Bürkner, University of Münster, Department of
+Psychology, }\\
+\emph{paul.buerkner@gmail.com }\\
+\\
+The prior is a key concept in Bayesian statistics that distinguishes
+it from most other statistical methods. Historically, it has caused
+many resentments against Bayesian statistics in general and remains
+a controversial topic to date. In my talk, I want to explain why we
+should usually not be too afraid of priors. At the same time, I want
+to highlight situations where thinking about priors is mandatory and
+incredibly helpful for reliable inference.
+
+\subsection*{I know what you ate last summer! \textendash{} the virtue of Bayesian
+analysis in food risk assessment}
+
+\emph{Jukka Ranta, Evira Finnish Food Safety Authority, Risk Assessment
+Unit,}\\
+\emph{Jukka.Ranta@evira.fi }\\
+\\
+Evaluation of microbiological and chemical food safety risks typically
+involves several linked models. These describe different causal processes
+contributing to the consumer risk and can employ several data sets.
+When combining evidence, Bayesian modeling is a valuable and flexible
+method that can be used to assess, e.g., process control options and
+dietary exposure.
+
+\section*{Contributed presentations}
+
+\subsection*{Bayesian 3D Priors for Brain Imaging}
+
+\emph{Per Sidén, Lindköping university, Department of Computer and
+Information Science, per.siden@liu.se }\\
+\\
+This talk discusses the use of Bayesian priors for modeling the spatial
+distribution of brain activity from functional magnetic resonance
+imaging (fMRI). The data are naturally 4D, consisting of 3D brain
+images measured over time, each having hundreds of thousands of data
+points. The Bayesian approach is attractive because (1) it gives posterior
+probabilities of activation in different brain regions; (2) the amount
+of spatial dependence can be inferred from the data and (3) the large
+scale computational problem can be efficiently handled using sparse
+Gaussian Markov random fields (GMRF) priors. 
+
+\subsection*{Introducing the brms R package}
+
+\emph{Paul-Christian Bürkner, University of Münster, Department of
+Psychology,}\\
+\emph{paul.buerkner@gmail.com }\\
+\\
+This talk with introduce the the brms package which implements Bayesian
+multilevel models in R using the probabilistic programming language
+Stan. A wide range of distributions and link functions are supported,
+allowing users to fit linear, robust linear, binomial, Poisson, survival,
+response times, ordinal, quantile, zero-inflated, hurdle, and even
+non-linear models all in a multilevel context. In addition, all parameters
+of the response distribution can be predicted in order to perform
+distributional regression. Prior specifications are flexible and explicitly
+encourage users to apply prior distributions that actually reflect
+their beliefs. In addition, model fit can easily be assessed and compared
+with posterior predictive checks and leave-one-out cross-validation.
+
+\subsection*{A hands-on example of Bayesian mixed models with brms}
+
+\emph{Andrey Anikin, Lund University, Cognitive Science, andrey.anikin@lucs.lu.se
+}\\
+\\
+While the advantages of a Bayesian approach are increasingly acknowledged,
+many are discouraged by the steep learning curve and the large amount
+of manual coding. In this talk I demonstrate how mixed models, a staple
+of modern data analysis, can be easily fit and explored with just
+a few lines of code using brms package. Starting with a dataset from
+a real experiment, in which listeners judged the authenticity of emotional
+vocalizations (a binary outcome), I will go through model specification,
+diagnostics, plotting, and reporting the results.
+
+\subsection*{Analyzing an experiment on involuntary attention using brms}
+
+\emph{Antonio Schettino, Ghent University, Department of Experimental
+Clinical and Health Psychology, antonio.schettino@ugent.be }\\
+\\
+It is difficult to suppress the urge to look at your smartphone if
+there is a sudden flash on the screen. But would you still look at
+the phone if the flash always signals wrong information? We addressed
+this question using a visual temporal order judgment task, in which
+participants had to judge which of two stimuli appeared first. Some
+trials were preceded by a counterproductive exogenous cue, i.e., always
+signaling where the second target would appear. Bayesian parameter
+estimation and model comparison (using the brms package in R) revealed
+that the cue, despite being counterproductive, consistently attracted
+attention. 
+
+\subsection*{Analyzing orientation behavior in animals using Stan}
+
+\emph{John Kirwan, Lund University, Department of Biology, john.kirwan@biol.lu.se
+}\\
+\\
+A recurring challenge in behavioral studies of animal senses is the
+analysis of angular data, which frequently occurs from tracking orientation
+or direction of movement. Analysis and visualization of these data
+are fraught with challenges, as they can be easy to misinterpret.
+Within the fields of animal sensory ecology and navigation, angular
+data has typically been investigated by comparing treatments using
+a limited set of significance tests. These approaches are inflexible
+and neglect pooling and measures of effect size and uncertainty. To
+address this, I have sought to analyse angular behavioral data using
+models in the Stan language.
+
+\subsection*{Inference in ecology and evolution beyond generalized linear mixed
+models}
+
+\emph{Reinder Radersma, Lund university, Department of Biology, }\\
+\emph{reinder.radersma@biol.lu.se}\\
+\\
+Generalized linear mixed models (GLMMs) are commonly used in many
+research fields, including ecology and evolution. GLMMs and the software
+for analyzing them offer great flexibility in for instance the number
+of variables and error structure, but obviously assume linearity.
+The tremendous flexibility of Stan to customize the structure of models
+offers a great, but underused potential for investigating more complex
+correlational/causality patterns. Here I will showcase 3 studies on
+humans, birds and waterfleas, in which I have used Stan to customize
+model structures to answer questions in ecology and evolution for
+which GLMMs have limited potential.
+
+\subsection*{Is there something out there? }
+
+\emph{Ullrika Sahlin, Lund University, Centre for Environmental and
+Climate Research, ullrika.sahlin@gmail.com }\\
+\\
+I will use this simple question to demonstrate how Bayesian analysis
+can be used for risk assessment under sparse information and how it
+allows you to incorporate judgement from one or several experts.
+
+\subsection*{Bayes Factors: A \textquoteleft re-volution\textquoteright{} in psychology}
+
+\emph{Geoff Patching, Lund University, Department of Psychology,}\\
+\emph{geoffrey.patching@psy.lu.se }\\
+\\
+In psychology, Bayes Factors (BFs) are being increasingly reported
+as a complement to p-values. However, just as the mindless computation
+of p-values encourages a simple dichotomization of study results,
+the mindless computation of BFs with an overemphasis on hypothesis
+testing detracts from more useful approaches to interpreting study
+results, such as parameter estimation. BFs may serve to facilitate
+the transition from frequentist to Bayesian data analysis, but let
+us not repeat mistakes of the past. In this short talk, I shall argue
+that Bayesian parameter estimation is preferred with an example from
+a recent Master thesis.
+
+\subsection*{Sequential Testing with Information Criteria and Evidence Ratios}
+
+\emph{Ladislas Nalborczyk, Univ. Grenoble Alpes \& Ghent University,}\\
+\emph{ladislas.nalborczyk@univ-grenoble-alpes.fr }\\
+\\
+Sequential testing refers to the process of collecting data until
+a predefined level of evidence is reached. Recently, Schönbrodt, Wagenmakers,
+Zehetleitner, \& Perugini (2017) and Schönbrodt \& Wagenmakers (2017)
+have introduced the Sequential Bayes Factors (SBF) procedure, in order
+to avoid the pitfalls associated with sequential testing in the NHST
+framework. The R package ESTER (Nalborczyk, 2017) proposes an alternative
+approach that uses evidence ratios based on either Akaike weights
+computed from AIC (e.g., Burnham \& Anderson, 2004) or pseudo-BMA
+weights computed from the WAIC or the LOO-CV of Bayesian models (Yao,
+Simpson, \& Gelman, 2017).
+
+\subsection*{What to do when exact Bayes is impossible? Some tools for approximate
+Bayesian inference}
+
+\emph{Umberto Picchini, Lund University, Centre for Mathematical Sciences,}\\
+\emph{umberto.picchini@gmail.com }\\
+\\
+So you have postulated a nice model and now you want to perform Bayesian
+inference for the model parameters. Great. The problem is the model
+has a non-standard likelihood function.. In other words your model
+is sufficiently complex that you can't write the likelihood function
+and therefore cannot perform full-fledged Bayesian analysis. This
+situation is actually the norm when working with realistic models.
+However there are strategies to deal with so-called \textquotedbl{}intractable
+likelihoods\textquotedbl{} using \textquotedbl{}likelihood-free inference\textquotedbl{}.
+The most important examples of these methods are \textquotedbl{}approximate
+Bayesian computation\textquotedbl{} (ABC) and \textquotedbl{}synthetic
+likelihoods\textquotedbl{}. I will give an introduction to both methods.
+
+\subsection*{Making the most out of a single datapoint using Approximate Bayesian
+inference}
+
+\emph{Denis Shepelin, Department of Computer and Information Science,
+Linköping University, denshe@biosustain.dtu.dk }\\
+\\
+Bayesian inference is based on evaluation of posterior distribution
+via likelihood function. However even for the simplest models sometimes
+there is no way for defining likelihood function in analytical way.
+In such situations, we still can perform Bayesian reasoning via Approximate
+Bayesian Computation techniques. In my talk, I want to provide an
+overview on typical ways to perform ABC and corresponding software
+packages. To demonstrate flexibility of this method I would like to
+present my use case on performing ABC on very complex simulator based
+model with 1 data point while still achieving useful results. 
+
+\subsection*{How I introduce Bayes to beginners}
+
+\emph{Rasmus Bååth, King Digital Entertainment, rasmus.baath@gmail.com
+}\\
+\\
+Bayesian statistics is a rich a deep topic, but you have to start
+somewhere. And there are many places to start, and many ways educators
+introduce Bayesian statistics: From probability as personal belief
+to just focussing on Markov chain Monte Carlo. In this short talk
+I'll give a demonstration of what I think is one good way of introducing
+Bayes to beginners.
+
+\newpage{}
+
+\section*{Acknowledgement}
+
+The organizing committee of this year\textquoteright s Bayes@Lund
+consisted of Rasmus Bååth (King Digital Entertainment, Malmö) and
+Ullrika Sahlin (Centre of Environmental and Climate Research, Lund
+University). 
+
+We are deeply grateful to the COMPUTE research school for financial
+support of this event. We would also like to thank the graduate research
+school ClimBEco for helping us bring the invited speakers to Lund
+University.\vfill{}
+\begin{center}
+\includegraphics[width=5cm]{lu_logotype}
+\par\end{center}
+\end{document}

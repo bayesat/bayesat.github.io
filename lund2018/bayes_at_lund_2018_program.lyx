@@ -113,19 +113,6 @@ A Mini-conference on Bayesian Methods at Lund University
 
 \family typewriter
 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-\family typewriter
-\emph on
-bayes abstracts
-\end_layout
-
-\end_inset
-
-
 \begin_inset CommandInset href
 LatexCommand href
 name "bayesat.github.io/lund2018/bayes_at_lund_2018.html"
@@ -726,9 +713,9 @@ Ullrika Sahlin, Lund University, Centre for Environmental and Climate Research,
 \begin_inset Newline newline
 \end_inset
 
-This is a demonstration of how Bayesian methods can be used for risk assessment
- under sparse information and incorporating judgement from multiple experts.
- 
+I will use this simple question to demonstrate how Bayesian analysis can
+ be used for risk assessment under sparse information and how it allows
+ you to incorporate judgement from one or several experts.
 \end_layout
 
 \begin_layout Subsection*
@@ -907,7 +894,11 @@ Acknowledgement
 The organizing committee of this year’s Bayes@Lund consisted of Rasmus Bååth
  (King Digital Entertainment, Malmö) and Ullrika Sahlin (Centre of Environmental
  and Climate Research, Lund University).
- We are deeply grateful to the COMPUTE research school for financial support
+ 
+\end_layout
+
+\begin_layout Standard
+We are deeply grateful to the COMPUTE research school for financial support
  of this event.
  We would also like to thank the graduate research school ClimBEco for helping
  us bring the invited speakers to Lund University.
