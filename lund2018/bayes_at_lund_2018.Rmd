@@ -52,16 +52,8 @@ Important Dates
 ---------------
 * <s>Final date for presentations submission: __11th of February__</s>
 * <s>Notifications to presenters: __18th of February__</s>
-* Final date for registration: __1st of April__
+* <s>Final date of registration: __1st of April__</s>
 * The conference: __12th of April__
-
-
-Conference registration
------------------------
-
-If you want to join us for Bayes&#64;Lund, please register your attendance using the form below. The final date of registration is __1st of April__. 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeObI_s4XhL0epYH9WZECNpdj_ueKZOpi7I0J9mgN7kzxSMwA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 Location
@@ -149,6 +141,11 @@ The day before the conference there will be a tutorial seminar on Bayesian infer
 **How?** To sign up for the tutorial please use [the Conference registration form above](#conference-registration). Note that the number of spaces available on the tutorial is limited. 
 
 -->
+
+Conference registration
+-----------------------
+
+The final date of registration has passed and the registration is now closed.
 
 Contact
 --------------
