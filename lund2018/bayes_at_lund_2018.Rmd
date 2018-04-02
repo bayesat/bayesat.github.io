@@ -16,7 +16,7 @@ You are welcome to participate in the fifth edition of Bayes&#64;Lund! The purpo
 
 <img src="photos/invited_speakers_overlapping.png" alt="Invited Speakers" align="right" style="margin: 10px;width: 250px"></img>
 
-This conference will feature a number of contributed talks and short tutorials, and invited talks by [Paul-Christian Bürkner](https://paul-buerkner.github.io/) and [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/). For what to expect, check out the programs from [past Bayes&#64;Lund events](https://bayesat.github.io/).
+This conference will feature a number of contributed talks and short tutorials, and invited talks by [Paul-Christian Bürkner](https://paul-buerkner.github.io/) and [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/). 
 
 
 #### Invited speakers: Paul-Christian Bürkner and Jukka Ranta 
