@@ -80,7 +80,7 @@ Schedule
 ------------- --------------------------------------------------
  08.45        Registration opens (just outside room LUX:C126)
  
- 09.10        Welcome
+ 09.10        Welcome (*Room C116b*)
  
  09.15-10.00  Keynote presentation </br>
               - **_Why not to be afraid of priors (too much)_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** 
@@ -96,6 +96,8 @@ Schedule
               - **_Analyzing orientation behaviour in animals using Stan_, [John Kirwan](https://www.biology.lu.se/john-kirwan), Lund University, Department of Biology.** <br>
               
  12.00-12.45  Sandwich lunch and mingle in the foyer
+ 
+              *We now move to room C126*
               
  12.45-13.30  Keynote presentation</br>
               - **_I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment_, [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), Evira Finnish Food Safety Authority, Risk Assessment Unit.**
