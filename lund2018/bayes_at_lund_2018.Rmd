@@ -12,6 +12,86 @@ output:
   <h2> 12th of April, 2018, Lund University</h2>
 </div>
 
+The conference is over and we would like to thank everybody that participated and made this such great event! Below in [the Schedule](#schedule-videos-and-slides-from-the-talks) you'll now find the slides and video recordings from all the presentations.
+
+Good Bayes! <br>
+/The Organisers <br>
+*Rasmus Bååth* (rasmus.baath@gmail.com) <br>
+*Ullrika Sahlin* (ullrika.sahlin@cec.lu.se) <br>
+
+<center><img src='photos/conference_photos.jpeg' style='max-width:600px'></center>
+
+
+
+
+Schedule + videos and slides from the talks
+-------------------------------------
+
+-----------------------------------------------------------------
+  &nbsp;      &nbsp;
+  
+------------- --------------------------------------------------
+ 08.45        Registration opens (just outside room LUX:C126)
+ 
+ 09.10        Welcome (*Room C116b*)
+ 
+ 09.15-10.00  Keynote presentation </br>
+              - **_Why not to be afraid of priors (too much)_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** [slides pdf](slides/paul_burkner_prior_slides.pdf), [video of the talk](https://youtu.be/Uz9r8eV2erQ)
+              
+ 10.00-10.20  - **_Bayesian 3D Priors for Brain Imaging_, [Per Sidén](http://www.ida.liu.se/~persi28/), Lindköping university, Department of Computer and Information Science.** [slides pdf](slides/per_siden_slides.pdf), [video of the talk](https://youtu.be/chSFxSD4f20)
+   
+ 10.20-10.40  Coffee break
+
+ 10.40-12.00  Session: Bayesian Regression Models using Stan </br>
+              - **_Introducing the brms R package_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** [slides pdf](slides/paul_burkner_brms_slides.pdf) <br>
+              - **_A hands-on example of Bayesian mixed models with brms_, [Andrey Anikin](http://cogsci.se/index.html), Lund University, Cognitive Science.** [slides pdf](slides/andrey_anikin_slides.pdf), [video of the talk](https://youtu.be/1p_Us5WFQ7w) <br>
+              - **_Analyzing an experiment on involuntary attention using brms_, [Antonio Schettino](https://asch3tti.netlify.com/), Ghent University, Department of Experimental Clinical and Health Psychology.** [slides pdf](slides/antonio_schettino_slides.pdf), [video of the talk](https://youtu.be/eG-VE6_yuk8) <br>
+              - **_Analyzing orientation behaviour in animals using Stan_, [John Kirwan](https://www.biology.lu.se/john-kirwan), Lund University, Department of Biology.** [slides pdf](slides/john_kirwan_slides.pdf), [video of the talk](https://youtu.be/L0Rd_BkME10) <br>
+              
+ 12.00-12.45  Sandwich lunch and mingle in the foyer
+              
+ 12.45-13.30  Keynote presentation</br>
+              - **_I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment_, [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), Evira Finnish Food Safety Authority, Risk Assessment Unit.** [slides pdf](slides/jukka_ranta_slides.pdf), [video of the talk](https://youtu.be/FWTvVrC_mWg)
+
+              
+ 13.30-13.50  - **_Inference in ecology and evolution beyond generalised linear mixed models_, [Reinder Radersma](https://www.biology.lu.se/reinder-radersma), Lund university, Department of Biology.** [slides pdf](slides/reinder_radersma_slides.pdf), [video of the talk](https://youtu.be/r8b6_T2bQAM)
+
+
+ 13.50-14.00  Quick break
+
+ 14.00-15.00  Session: Bayesian hypothesis testing </br>
+              - **_Is there something out there? _, [Ullrika Sahlin](https://www.cec.lu.se/ullrika-sahlin), Lund University, Centre for Environmental and Climate Research.** [video of the talk](https://youtu.be/l-H8Ccm_jxE) </br> 
+              - **_Bayes Factors: A ‘re-volution’ in psychology_, [Geoff Patching](http://portal.research.lu.se/portal/sv/persons/geoff-patching(0aa2d041-b04f-4ecb-b441-1925350a6338).html), Lund University, Department of Psychology.** [slides pdf](slides/geoff_patching_slides.pdf), [video of the talk](https://youtu.be/S-o8kyPzZ54) </br>
+              - **_Sequential Testing with Information Criteria and Evidence Ratios_, [Ladislas Nalborczyk](http://www.barelysignificant.com/), Univ. Grenoble Alpes & Ghent University.** [slides](http://www.barelysignificant.com/slides/BAL2018#/), [video of the talk](https://youtu.be/OK9vBPOhby0)
+
+ 
+ 15.00-15.30  Coffee and cake
+
+ 15.30-16.15  Session: Approximate Bayesian inference </br>
+              - **_What to do when exact Bayes is impossible? Some tools for approximate Bayesian inference_ [Umberto Picchini](https://umbertopicchini.github.io/), Lund University, Centre for Mathematical Sciences.** [slides pdf](slides/umberto_picchini_slides.pdf), [video of the talk](https://youtu.be/eT_bYtvQ2wA) </br>
+              - **_Making the most out of a single datapoint using Approximate Bayesian inference _, [Denis Shepelin](https://twitter.com/DenisShepelin),  Technical University of Denmark, the Novo Nordisk Foundation Center for Biosustainability.** [slides pdf](slides/denis_shepelin_slides.pdf), [video of the talk](https://youtu.be/FYem8_LvDjg) </br>
+
+ 16.15-16.30  - **_How I introduce Bayes to beginners_, [Rasmus Bååth](http://sumsar.net), King Digital Entertainment.** [slides pdf](slides/rasmus_baath_slides.pdf), [video of the talk](https://youtu.be/Rvbs9OB2pa0)
+ 
+ 16.30        Closing
+ 
+ 17.30        Post-conference discussions and dinner at La Parada. (Directions: https://goo.gl/maps/uWoJ99Sz9AE2) 
+
+------------- --------------------------------------------------
+
+
+Program
+-------------
+
+
+For the full program, including abstracts, see [the program booklet](https://rawgit.com/bayesat/bayesat.github.io/master/lund2018/bayes_at_lund_2018_program.pdf):
+
+<center> [ <img src="photos/program_thumbnail.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222); max-width: 200px" >](https://rawgit.com/bayesat/bayesat.github.io/master/lund2018/bayes_at_lund_2018_program.pdf) <center>
+
+
+Introduction
+------------------------
+
 You are welcome to participate in the fifth edition of Bayes&#64;Lund! The purpose of this conference is to bring together researchers and professionals working with or interested in Bayesian methods. Bayes&#64;Lund aims at being **accessible** to researchers with little experience of Bayesian methods while still being **relevant** to experienced practitioners. The focus is on how Bayesian methods are used in research and in the industry, what advantages Bayesian methods have over classical alternatives, and how the use and teaching of Bayesian methods can be encouraged.
 
 <img src="photos/invited_speakers_overlapping.png" alt="Invited Speakers" align="right" style="margin: 10px;width: 250px"></img>
@@ -46,7 +126,6 @@ Each accepted speaker is given 20 minutes and, as the audience will be highly he
 
 To contribute a presentation or short tutorial for Bayes&#64;Lund, please send in the title of your talk/tutorial with an abstract (no more than 100 words) to rasmus.baath@gmail.com. For a short tutorial, also indicate how much time you want (10/20/30 min.). The final date for submissions is **11th of February**. 
 
--->
 
 Important Dates
 ---------------
@@ -55,75 +134,11 @@ Important Dates
 * <s>Final date of registration: __1st of April__</s>
 * The conference: __12th of April__
 
-
-Location
----------------
-
-[Lund University, Sweden](https://goo.gl/maps/WYmiKqycjSt). In the Lux building, Helgonavägen 3, Lund. Here is how to find it: http://www.ht.lu.se/en/lux/kontakt/kartor-och-fardsatt/
+-->
 
 
-Program
--------------
 
 
-For the full program, including abstracts, see [the program booklet](https://rawgit.com/bayesat/bayesat.github.io/master/lund2018/bayes_at_lund_2018_program.pdf):
-
-<center> [ <img src="photos/program_thumbnail.png" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222); max-width: 200px" >](https://rawgit.com/bayesat/bayesat.github.io/master/lund2018/bayes_at_lund_2018_program.pdf) <center>
-
-
-Schedule
--------------
-
------------------------------------------------------------------
-  &nbsp;      &nbsp;
-  
-------------- --------------------------------------------------
- 08.45        Registration opens (just outside room LUX:C126)
- 
- 09.10        Welcome (*Room C116b*)
- 
- 09.15-10.00  Keynote presentation </br>
-              - **_Why not to be afraid of priors (too much)_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** 
-              
- 10.00-10.20  - **_Bayesian 3D Priors for Brain Imaging_, [Per Sidén](http://www.ida.liu.se/~persi28/), Lindköping university, Department of Computer and Information Science.**
-   
- 10.20-10.40  Coffee break
-
- 10.40-12.00  Session: Bayesian Regression Models using Stan </br>
-              - **_Introducing the brms R package_, [Paul-Christian Bürkner](https://paul-buerkner.github.io/), University of Münster, Department of Psychology.** <br>
-              - **_A hands-on example of Bayesian mixed models with brms_, [Andrey Anikin](http://cogsci.se/index.html), Lund University, Cognitive Science.** <br>
-              - **_Analyzing an experiment on involuntary attention using brms_, [Antonio Schettino](https://asch3tti.netlify.com/), Ghent University, Department of Experimental Clinical and Health Psychology.** <br>
-              - **_Analyzing orientation behaviour in animals using Stan_, [John Kirwan](https://www.biology.lu.se/john-kirwan), Lund University, Department of Biology.** <br>
-              
- 12.00-12.45  Sandwich lunch and mingle in the foyer
- 
-              *We now move to room C126*
-              
- 12.45-13.30  Keynote presentation</br>
-              - **_I know what you ate last summer! – the virtue of Bayesian analysis in food risk assessment_, [Jukka Ranta](https://www.evira.fi/en/about-evira/contact/personnel-search/r/jukka-ranta/), Evira Finnish Food Safety Authority, Risk Assessment Unit.**
-              
- 13.30-13.50  - **_Inference in ecology and evolution beyond generalised linear mixed models_, [Reinder Radersma](https://www.biology.lu.se/reinder-radersma), Lund university, Department of Biology.**
-
- 13.50-14.00  Quick break
-
- 14.00-15.00  Session: Bayesian hypothesis testing </br>
-              - **_Is there something out there? _, [Ullrika Sahlin](https://www.cec.lu.se/ullrika-sahlin), Lund University, Centre for Environmental and Climate Research.** </br> 
-              - **_Bayes Factors: A ‘re-volution’ in psychology_, [Geoff Patching](http://portal.research.lu.se/portal/sv/persons/geoff-patching(0aa2d041-b04f-4ecb-b441-1925350a6338).html), Lund University, Department of Psychology.** </br>
-              - **_Sequential Testing with Information Criteria and Evidence Ratios_, [Ladislas Nalborczyk](http://www.barelysignificant.com/), Univ. Grenoble Alpes & Ghent University.**
- 
- 15.00-15.30  Coffee and cake
-
- 15.30-16.15  Session: Approximate Bayesian inference </br>
-              - **_What to do when exact Bayes is impossible? Some tools for approximate Bayesian inference_ [Umberto Picchini](http://www.maths.lth.se/matstat/staff/umberto/), Lund University, Centre for Mathematical Sciences.**</br>
-              - **_Making the most out of a single datapoint using Approximate Bayesian inference _, [Denis Shepelin](https://twitter.com/DenisShepelin),  Technical University of Denmark, the Novo Nordisk Foundation Center for Biosustainability.**</br>
-
- 16.15-16.30  - **_How I introduce Bayes to beginners_, [Rasmus Bååth](https://sumsar.net), King Digital Entertainment.**
- 
- 16.30        Closing
- 
- 17.30        Post-conference discussions and dinner at La Parada. (Directions: https://goo.gl/maps/uWoJ99Sz9AE2) 
-                   
-------------- --------------------------------------------------
 
 <!--
 
@@ -142,12 +157,19 @@ The day before the conference there will be a tutorial seminar on Bayesian infer
 
 **How?** To sign up for the tutorial please use [the Conference registration form above](#conference-registration). Note that the number of spaces available on the tutorial is limited. 
 
--->
+
 
 Conference registration
 -----------------------
 
 The final date of registration has passed and the registration is now closed.
+
+Location
+---------------
+
+[Lund University, Sweden](https://goo.gl/maps/WYmiKqycjSt). In the Lux building, Helgonavägen 3, Lund. Here is how to find it: http://www.ht.lu.se/en/lux/kontakt/kartor-och-fardsatt/
+
+-->
 
 Contact
 --------------
