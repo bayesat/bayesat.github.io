@@ -11,19 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome! On this page you will find information regarding the Bayes@ series of mini-conferences.
 
-Upcoming Bayes@ conferences
---------------------------------
-
-### Bayes\@Lund 2018
-
-[<img src="lund2018/bayes_at_lund_logo_2018_1000_px.png" alt="Bayes@Lund 2018" style="width: 400px;"/>](lund2018/bayes_at_lund_2018.html)
-
-*12th of April 2018, Lund University, Sweden.*
-
-Main Organizers: Ullrika Sahlin and Rasmus Bååth <br>
-Invited speakers: Paul-Christian Bürkner and Ranta Jukka 
-
-[Webpage](lund2018/bayes_at_lund_2018.html)
 
 What is a Bayes@ mini-conference?
 ----------------------------------
@@ -40,6 +27,17 @@ The first Bayes@ event was organized in Lund, Sweden by Rasmus Bååth and Ullri
 
 Past Bayes@ conferences
 -----------------
+
+### Bayes\@Lund 2018
+
+[<img src="lund2018/bayes_at_lund_logo_2018_1000_px.png" alt="Bayes@Lund 2018" style="width: 400px;"/>](lund2018/bayes_at_lund_2018.html)
+
+*12th of April 2018, Lund University, Sweden.*
+
+Main Organizers: Ullrika Sahlin and Rasmus Bååth <br>
+Invited speakers: Paul-Christian Bürkner and Ranta Jukka 
+
+[Webpage (including slides and videos)](lund2018/bayes_at_lund_2018.html)
 
 ### Bayes\@Lund 2017
 
