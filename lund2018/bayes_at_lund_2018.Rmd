@@ -60,7 +60,7 @@ Schedule + videos and slides from the talks
  13.50-14.00  Quick break
 
  14.00-15.00  Session: Bayesian hypothesis testing </br>
-              - **_Is there something out there? _, [Ullrika Sahlin](https://www.cec.lu.se/ullrika-sahlin), Lund University, Centre for Environmental and Climate Research.** [video of the talk](https://youtu.be/l-H8Ccm_jxE) </br> 
+              - **_Is there something out there? _, [Ullrika Sahlin](https://www.cec.lu.se/ullrika-sahlin), Lund University, Centre for Environmental and Climate Research.** [slides pdf](slides/ullrika_sahlin_slides.pdf), [video of the talk](https://youtu.be/l-H8Ccm_jxE) </br> 
               - **_Bayes Factors: A ‘re-volution’ in psychology_, [Geoff Patching](http://portal.research.lu.se/portal/sv/persons/geoff-patching(0aa2d041-b04f-4ecb-b441-1925350a6338).html), Lund University, Department of Psychology.** [slides pdf](slides/geoff_patching_slides.pdf), [video of the talk](https://youtu.be/S-o8kyPzZ54) </br>
               - **_Sequential Testing with Information Criteria and Evidence Ratios_, [Ladislas Nalborczyk](http://www.barelysignificant.com/), Univ. Grenoble Alpes & Ghent University.** [slides](http://www.barelysignificant.com/slides/BAL2018#/), [video of the talk](https://youtu.be/OK9vBPOhby0)
 
