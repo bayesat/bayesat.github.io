@@ -11,6 +11,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome! On this page you will find information regarding the Bayes@ series of mini-conferences.
 
+Upcoming Bayes@ conferences
+-----------------
+
+### Bayes\@Lund 2019
+
+[<img src="lund2019/bayes_at_lund_logo_2019_1000_px.png" alt="Bayes@Lund 2019" style="width: 400px;"/>](lund2019/index.html)
+
+*7th of May 2019, Lund University, Sweden.*
+
+Main Organizers: Rasmus Bååth, Alexander Holmes, Ullrika Sahlin and Jakob Lavröd <br>
+Invited speakers: Maggie Lieu and Robert Grant
+
+[More info and registration here!](lund2019/index.html)
+
 
 What is a Bayes@ mini-conference?
 ----------------------------------
