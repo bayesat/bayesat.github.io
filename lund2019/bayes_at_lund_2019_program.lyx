@@ -1,0 +1,982 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "palatino" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Bayes@Lund 2016"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a5paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.2cm
+\topmargin 1cm
+\rightmargin 1.2cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset Graphics
+	filename bayes_at_lund_logo_2019_1000_px.png
+	lyxscale 50
+	width 10cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+
+\emph on
+A Mini-conference on Bayesian Methods at Lund University
+\begin_inset Newline newline
+\end_inset
+
+7th of May, 2019
+\begin_inset Newline newline
+\end_inset
+
+ Palaestra, Lund University, Sweden
+\begin_inset Newline newline
+\end_inset
+
+
+\family typewriter
+
+\begin_inset CommandInset href
+LatexCommand href
+name "bayesat.github.io/lund2019"
+target "https://bayesat.github.io/lund2019"
+literal "false"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section*
+Program
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+09.00–09.55 Welcome and keynote presentation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Hierarchical models and their applications in astronomy
+\emph default
+, Maggie Lieu, European Space Astronomy Centre, European Space Agency.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+10.00–10.40 Session: Bayesian Learning
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+What cause successful learning in Bayesian methods?
+\emph default
+ George Moroz, National Research University Higher School of Economics.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Introducing Bayesian Stats through Signal Detection Theory,
+\emph default
+ Gerit Pfuhl, UiT The Arctic University of Norway, Department of Psychology.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+10.40–11.00 Coffee break
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+11.00–12.00 Session: Bayesian Flexibility
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Prior thoughts on mixed-membership models in linguistics,
+\emph default
+ Chundra Cathcart and Gerd Carling, Lund University, Centre for Languages
+ and Literature.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+A Bayesian method to localize lost gamma sources
+\emph default
+, Antanas Bukartas, Christopher Rääf, Jonas Wallin, and Robert Finck, Lund
+ University, Medical Radiation Physics.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Spatio-Temporal Reconstructions of Global CO2-Fluxes using Gaussian Markov
+ Random Fields
+\emph default
+, Unn Dahlén, Johan Lindström, and Marko Scholze, Lund University, Centre
+ for Mathematical Sciences.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+12.00–12.45 Lunch and mingle
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+12.45–13.30 Keynote presentation
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Visualization for refining and communicating Bayesian analyses
+\emph default
+, Robert Grant, BayesCamp.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+13.30–13.50
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Bayesian vs.
+ Frequentism for experimentalists
+\emph default
+, Jakob Lavröd, YPT Sweden.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+13.50–14.00 Quick break
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+14.00–15.00 Session: Bayesian Decisions
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Extending Bayes to Make Optimal Decisions
+\emph default
+, Jonas Kristoffer Lindeløv, Aalborg University, Department of Communication
+ and Psychology.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Rich-man's Monte Carlo: Uncertainty Analysis in Excel
+\emph default
+, Dmytro Perepolkin, Lund University, Centre for Environmental and Climate
+ Research.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Probabilistic Programming for Voucher Information Extraction
+\emph default
+, Ahmad Salim Al-Sibahi, University of Copenhagen / Skanned.com.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+15.00–15.30 Coffee and cake
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+15.30–16.50 Session: Bayesian acceleration
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+How to deal with a noisy zero – a simple Bayesian treatment for small angle
+ neutron scattering
+\emph default
+ Alexander Holmes, Lund University, European Spallation Source.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Bayesian inference of conformational ensembles from small-angle scattering
+ data
+\emph default
+, Wojciech Potrzebowski and Ingemar Andre, Lund University, European Spallation
+ Source.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Bayesian determination of the effect of a deep eutectic solvent on the structure
+ of lipid monolayers
+\emph default
+, Andrew McCluskey, Andrew Jackson et al., Diamond Light Source / University
+ of Bath.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Formula $\triangleright$
+\end_inset
+
+ 
+\emph on
+Automatic Learning of Summary Statistics for Approximate Bayesian Computation
+ Using Deep Learning
+\emph default
+, Samuel Wiqvist, Pierre-Alexandre Mattei, Umberto Picchini, and Jes Frellsen,
+ Lund University, Mathematical Statistics.
+\end_layout
+
+\begin_layout Section*
+Keynote presentations 
+\end_layout
+
+\begin_layout Subsection*
+Hierarchical models and their applications in astronomy
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Maggie Lieu, European Space Astronomy Centre, European Space Agency
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Bayesian hierarchical models allow us to make inferences about populations
+ based on many individuals.
+ They can be particularly useful in astronomy where we have a lot of data,
+ but the observations are often very noisy.
+ It is not always easy to choose a principled prior for your problem, and
+ event when you can it will dominate the posterior distribution if treated
+ independently.
+ Hierarchical bayesian methods model the joint posterior of the observations
+ to self-consistently determine the prior from the data, improving constraints
+ on data with large uncertainties.
+ In this talk I will discuss the power of hierarchical models in astronomy,
+ with case studies including noisy weak gravitational lensing and extragalactic
+ proper motion.
+\end_layout
+
+\begin_layout Subsection*
+Visualization for refining and communicating Bayesian analyses
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Robert Grant, BayesCamp 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Introductory statistics classes teach the value of basic plots to diagnose
+ problems with regression models.
+ Like most of us, I found these very boring and spent a long time avoiding
+ them.
+ Now that I focus on complex Bayesian models, I find visualization of variables,
+ predictions and residuals more useful than ever.
+ Analysts need to track down problems where the model is not fitting the
+ data well, and also where the sampling algorithm is performing poorly,
+ where the priors may be a bad choice, and where the likelihood may be a
+ bad choice.
+ In addition to this, Bayesian models fitted with simulation are fertile
+ ground for visual communication of findings.
+ In this talk, I will review relevant general principles of effective visualizat
+ion, recent work on Bayesian workflow, and the role that interactive graphics
+ have to play.
+\end_layout
+
+\begin_layout Section*
+Contributed presentations
+\end_layout
+
+\begin_layout Subsection*
+What causes successful learning in Bayesian methods?
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+George Moroz, National Research University Higher School of Economics 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+I would like to share the comparison of three groups of students that I
+ taught Bayesian methods this year: (1) Mixed group (psychology, biology...)
+ with good background in R and frequentist statistics; (2) linguistic group
+ (3d year) with medium background in R and frequentist statistics; (3) further
+ education group in Computer Linguistic with beginner R and no statistical
+ background.
+ 
+\end_layout
+
+\begin_layout Standard
+I expected first and second groups to be more successful than the third
+ one, but the shocking result was that the third and the first groups were
+ more successful than the second one.
+ I will try to explain the obtained result.
+\end_layout
+
+\begin_layout Subsection*
+Introducing Bayesian Stats through Signal Detection Theory
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Gerit Pfuhl, UiT The Arctic University of Norway, Department of Psychology
+ 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+To avoid starting with a formula a detour via utilized Signal detection
+ theory (uSDT) familiarizes psychology undergraduates with some of the basic
+ concepts in Bayesian statistics.
+ uSDT includes payoffs (utility functions), base rates, and varies similarities,
+ illustrated on perceptual decision processes.
+ Payoffs and base rates influence bias, assisting students in understanding
+ models and priors in Bayesian statistics.
+\end_layout
+
+\begin_layout Subsection*
+Prior thoughts on mixed-membership models in linguistics
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Chundra Cathcart, Lund University, Centre for Languages and Literature 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Bayesian mixed-membership models are popular in linguistics, as they explicitly
+ model contact between languages (Reesink et al 2009, Syrjänen et al 2016).
+ Most linguistic applications use the biological Structure program (Pritchard
+ et al 2000) with default presets, fixing the concentration parameter of
+ the population-level Dirichlet prior over allele frequency (treated as
+ an analog for the language-level prior over features) at 1.
+ We show, using a cross-linguistic typological database, that there are
+ linguistically meaningful consequences for the choice of this hyper-parameter
+ (either fixed at different values or inferred from the data) using a series
+ of posterior predictive checks designed for mixed-membership models (Mimno
+ et al 2015).
+\end_layout
+
+\begin_layout Subsection*
+A Bayesian method to localize lost gamma sources
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Antanas Bukartas, Christopher Rääf, Jonas Wallin, and Robert Finck, Lund
+ University, Medical Radiation Physics 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Radioactive sources can sometimes be lost or misplaced despite the existing
+ rigorous safety rules.
+ Lost sources must be found as soon as possible to avoid inflicting harm
+ to the public.
+ Regardless of the type of equipment used it is desirable to use as much
+ information as possible from the measurements to draw conclusions about
+ the activity and location of a detected source.
+ Using Bayesian inference it is possible to obtain a probability distribution
+ for the position and activity of an unshielded gamma source in one pass
+ with a mobile gamma spectrometry vehicle.
+ The aim of this research was to investigate the feasibility of a Bayesian
+ algorithm for mobile gamma spectrometry, test its accuracy in determining
+ the location and activity.
+\end_layout
+
+\begin_layout Subsection*
+Spatio-Temporal Reconstructions of Global CO2-Fluxes using Gaussian Markov
+ Random Fields
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Unn Dahlén, Johan Lindström, and Marko Scholze, Lund University, Centre
+ for Mathematical Sciences 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Atmospheric inverse modeling is a method for constraining Earth surface
+ fluxes (sinks and sources) of greenhouse gases using measurements of atmospheri
+c concentrations.
+ The (linear) link between atmospheric concentration and fluxes are provided
+ by an atmospheric transport model.
+ Since the number of unknown surfaces fluxes is much larger than the number
+ of observed atmospheric concentrations, the inverse problem is ill-conditioned.
+ Requiring further assumption on the fluxes, leading to a Bayesian model.
+ Historically, fluxes are discretized to a grid and modeled by a multivariate
+ Gaussian distribution.
+ Instead, we define the flux on a continuous spatial domain, with fluxes
+ modeled as Gaussian Markov Random Fields, including both spatial and temporal
+ dependence.
+\end_layout
+
+\begin_layout Subsection*
+Bayesian vs.
+ Frequentism for experimentalists 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Jakob Lavröd, IYPT Sweden 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+A common rebuttal to Bayesian methods is that they are appropriate for large
+ and complex problems (containing prior information and hidden variables),
+ and most undergraduate teaching is often based upon frequentist methods.
+ Starting from the context of the practical experimentalist, we explore
+ the difference between the Bayesian and Frequentist methodology and highlights
+ the advantages of teaching the Bayesian perspective already from the start.
+ Many of the examples and the material come from the introductory course
+ given for the students enrolled in the high school giftedness program “Internat
+ional Young Physicists’ Tournament”, an attempt at introducing Bayesian
+ thinking into experimental practice.
+\end_layout
+
+\begin_layout Subsection*
+Extending Bayes to Make Optimal Decisions
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Jonas Kristoffer Lindeløv,
+\emph default
+ 
+\emph on
+Aalborg University, Department of Communication and Psychology 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Utility Theory allow you to make optimal decisions in the face of uncertainty.
+ For example, what bidding price would maximize your earnings, taking the
+ chance of failure into account? Utility Theory latches nicely onto Bayesian
+ Inference.
+ Once you have a posterior distribution, you need only a few more lines
+ of code to apply a utility function (aka loss function) and identify the
+ decision that optimizes said utility.
+ This approach scales well to more complex models and decisions.
+ We will use R and rstanarm/brms for Bayesian inference and hand-code the
+ utility.
+ An R notebook with worked examples will accompany the tutorial.
+\end_layout
+
+\begin_layout Subsection*
+Rich-man's Monte Carlo: Uncertainty Analysis in Excel
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Dmytro Perepolkin, Lund University, Centre for Environmental and Climate
+ Research 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Adoption of uncertainty analysis in modern business environments is often
+ challenging due to gaps in relevant skills and tooling (especially among
+ decision makers).
+ At the same time, Excel is ubiquitous and can be used to build decision
+ maker's intuition about uncertainties.
+ This talk will introduce typical business problem faced by businesses and
+ organizations on daily basis and showcase a fully transparent formula-only
+ Excel model with no dependency on external libraries or macros, that can
+ enlighten and inform about the effect of uncertainties on business outcomes.
+\end_layout
+
+\begin_layout Standard
+In this talk I will discuss framing, expert knowledge elicitation, modeling,
+ visualization and communication of results to facilitate discussion about
+ uncertainties and ultimately aid the decision making.
+\end_layout
+
+\begin_layout Subsection*
+Probabilistic Programming for Voucher Information Extraction
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Ahmad Salim Al-Sibahi, University of Copenhagen / Skanned.com 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Probabilistic programming is a new paradigm that augments existing programming
+ languages with constructs from Bayesian modeling like random variables,
+ distributions, sampling, and conditioning.
+ Frameworks supporting probabilistic programming (e.g., Pyro) allow fully
+ automated Bayesian inference, including for rich models that include neural
+ networks.
+ I will present how we use probabilistic programming for voucher information
+ extraction at Skanned.com.
+ I will discuss two concrete models which we have been working on: one for
+ grouping similar vouchers and another for matching keywords against features.
+ We will discuss the high-level constructs used in these models, the challenges
+ we experienced in describing them, and the preliminary results of running
+ inference against them.
+\end_layout
+
+\begin_layout Subsection*
+How to deal with a noisy zero – a simple Bayesian treatment for small angle
+ neutron scattering
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Alexander Holmes, Lund University, European Spallation Source 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Neutron scattering measurements are an ideal case for Bayesian analysis
+ – statistics are limited, measurement time is expensive and there is often
+ relevant background information.
+\end_layout
+
+\begin_layout Standard
+I will present an example of small angle neutron scattering from superconducting
+ vortex lattices.
+ Most of the signal detected is irrelevant and contributes nothing but noise
+ to the final result.
+ A Bayesian treatment of the results allows a huge enhancement of the signal
+ to noise ratio and treats missing data sensibly.
+ I will further argue that Bayesian analysis offers a huge amount to the
+ scattering community and would benefit significantly from more systematic
+ support from institutions such as the ESS.
+\end_layout
+
+\begin_layout Subsection*
+Bayesian inference of conformational ensembles from small-angle scattering
+ data
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Wojciech Potrzebowski and Ingemar Andre, Lund University, European Spallation
+ Source 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Small-angle scattering (SAS) use x-ray or neutron scattering at small angles
+ to investigate the structure of materials at the scale about 1-100nm.
+ SAS is uniquely suited to study the conformational ensembles adopted by
+ multi-domain proteins.
+ However, analysis is complicated by the limited information content in
+ SAS data and care must be taken to avoid constructing overly complex ensemble
+ models and fitting to noise in the experimental data.
+ To address these challenges, we developed a method based on Bayesian statistics
+ that infers conformational ensembles from a structural library generated
+ by all-atom Monte Carlo simulations.
+ The method involves a fast model selection based on variational Bayesian
+ inference that maximizes the model evidence, followed by a complete Bayesian
+ inference of population weights.
+\end_layout
+
+\begin_layout Subsection*
+Bayesian determination of the effect of a deep eutectic solvent on the structure
+ of lipid monolayers
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Andrew McCluskey et al., Diamond Light Source / University of Bath
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+We present a unique insight from Bayesian-driven modeling for a series of
+ lipid monolayers at the air-deep eutectic solvent (DES) interface using
+ reflectometry measurements.
+ A chemically-consistent modeling approach shows that the lipid monolayers
+ at the air-DES interface are similar to those on water while removing the
+ need for water-specific constraints.
+ 
+\end_layout
+
+\begin_layout Standard
+Furthermore, the use of Markov-chain Monte Carlo sampling enables the quantifica
+tion of inverse uncertainties and parameter correlations in the modeling
+ approach.
+ Finally, we discuss limitations present in the use of Bayesian methods
+ for reflectometry analysis and outline future work that will be conducted
+ to overcome these.
+\end_layout
+
+\begin_layout Subsection*
+Automatic Learning of Summary Statistics for Approximate Bayesian Computation
+ Using Deep Learning
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Samuel Wiqvist, Lund University, Mathematical Statistics 
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Learning summary statistics is a fundamental problem in Approximate Bayesian
+ Computation (ABC).
+ The problem of learning summary statistics is, in fact, the main challenge
+ when applying ABC in practice, and affects the resulting inference considerably.
+ Deep learning methods have previously been used to learn summary statistics
+ for ABC.
+ Here we introduce a novel deep learning architecture (Partially Exchangeable
+ Networks, PENs), with the purpose of automatically learning summary statistics
+ for ABC.
+ Our case studies show that our methodology outperforms other popular methods,
+ resulting in more accurate ABC inference for Markovian data.
+\end_layout
+
+\begin_layout Section*
+Acknowledgement
+\end_layout
+
+\begin_layout Standard
+The organizing committee of this year’s Bayes@Lund consisted of Rasmus Bååth
+ (King Digital Entertainment, Malmö), Ullrika Sahlin (Centre of Environmental
+ and Climate Research, Lund University), and Alexander Holmes (European
+ Spallation Source, Lund University), with help from Jakob Lavröd (YPT Sweden).
+ 
+\end_layout
+
+\begin_layout Standard
+We are deeply grateful to the COMPUTE research school and the BECC research
+ environment for financial support of this event.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename lu_logotype.pdf
+	lyxscale 25
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
