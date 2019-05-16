@@ -361,9 +361,9 @@ Rich-man's Monte Carlo: Uncertainty Analysis in Excel
 
  
 \emph on
-Probabilistic Programming for Voucher Information Extraction
+Bayesian Deep Learning Applications in Biomedicine
 \emph default
-, Ahmad Salim Al-Sibahi, University of Copenhagen / Skanned.com.
+, Nikolay Oskolkov, Lund University, Department of Biology.
 \end_layout
 
 \begin_layout Labeling
@@ -373,7 +373,7 @@ Probabilistic Programming for Voucher Information Extraction
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-15.30–16.50 Session: Bayesian acceleration
+15.30–16.50 Session: Bayesian Scattering
 \end_layout
 
 \begin_layout Labeling
@@ -390,7 +390,7 @@ Probabilistic Programming for Voucher Information Extraction
 How to deal with a noisy zero – a simple Bayesian treatment for small angle
  neutron scattering
 \emph default
- Alexander Holmes, Lund University, European Spallation Source.
+ Alexander Holmes, European Spallation Source ERIC.
 \end_layout
 
 \begin_layout Labeling
@@ -778,13 +778,13 @@ In this talk I will discuss framing, expert knowledge elicitation, modeling,
 \end_layout
 
 \begin_layout Subsection*
-Probabilistic Programming for Voucher Information Extraction
+Bayesian Deep Learning Applications in Biomedicine
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Ahmad Salim Al-Sibahi, University of Copenhagen / Skanned.com 
+Nikolay Oskolkov, Lund University, Department of Biology 
 \emph default
 
 \begin_inset Newline newline
@@ -794,19 +794,17 @@ Ahmad Salim Al-Sibahi, University of Copenhagen / Skanned.com
 \begin_inset Newline newline
 \end_inset
 
-Probabilistic programming is a new paradigm that augments existing programming
- languages with constructs from Bayesian modeling like random variables,
- distributions, sampling, and conditioning.
- Frameworks supporting probabilistic programming (e.g., Pyro) allow fully
- automated Bayesian inference, including for rich models that include neural
- networks.
- I will present how we use probabilistic programming for voucher information
- extraction at Skanned.com.
- I will discuss two concrete models which we have been working on: one for
- grouping similar vouchers and another for matching keywords against features.
- We will discuss the high-level constructs used in these models, the challenges
- we experienced in describing them, and the preliminary results of running
- inference against them.
+Next Generation Sequencing technologies gave rise to manifolds of Biomedical
+ Big Data which is particularly manifested in the area of single cell transcript
+omics where millions of cells are sequenced.
+ Deep Learning (DL) is an ideal framework for analyzing large amounts of
+ data and building predictive models for Clinical Diagnostics within the
+ concept of Precision Medicine.
+ Bayesian DL adds an important level of patient safety providing uncertainties
+ to the biomedical predictions.
+ Here, using single-cell transcriptomics data I demonstrate how Bayesian
+ DL improves the accuracy of discovering novel cell sub-populations and
+ dramatically outperforms classical methods when handling unknown cell sub-types.
 \end_layout
 
 \begin_layout Subsection*
@@ -817,9 +815,9 @@ How to deal with a noisy zero – a simple Bayesian treatment for small angle
 \begin_layout Standard
 
 \emph on
-Alexander Holmes, Lund University, European Spallation Source 
+Alexander Holmes, European Spallation Source 
 \emph default
-
+ERIC
 \begin_inset Newline newline
 \end_inset
 
